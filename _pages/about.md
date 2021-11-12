@@ -17,7 +17,7 @@ I received the B.Eng in Aerospace Engineering from the Beijing Institute of Tech
 
 Academic Services
 ======
-* Conference Reviewer: IROS, ICRA, CDC, ACC
+* Conference Reviewer:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), International Conference on Robotics and Automation (ICRA),  IEEE conference on Decision and Control (CDC),  American Control Conference (ACC)
 * Journal Reviewer:  IEEE Transactions on Automatic Control (TAC),  IEEE Transactions on Robotics (T-RO), IEEE Robotics and Automation Letters (RA-L),  IEEE Control Systems Letters (L-CSS)
 
 Biography
