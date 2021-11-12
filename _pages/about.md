@@ -10,11 +10,20 @@ redirect_from:
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
+About Me
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<p>In June 2021, I'm a Postdoc associate in <a href="https://cristianvasile.com/">Autonomous and Intelligent Robotics (AIR) Lab</a>.   </p>
+<p>In May 2021, I received my Doctoral degree from Uiowa.  </p>
+<p>In February 2021, I joined the <a href="https://wordpress.lehigh.edu/robotics/">Autonomous and Intelligent Robotics (AIR) Lab </a> as a Visiting PhD in <a href="https://www1.lehigh.edu/">Lehigh University</a> supervised by Prof. <a href="https://scholar.google.com/citations?user=EOe-YRwAAAAJ&hl=en&oi=ao">Cristian-Ioan Vasile</a> </a>.  </p>
+<p>In December 2020, I completed my dissertation of Doctoral degree</a>.  </p>
+<p>In Auguest 2020, I received <a href="https://www.grad.uiowa.edu/funding/fellowships/internal/post-comp"> Graduate College Post-comprehensive Research Fellowship</a>. </p>
+<p>In February 2020, I completed my comprehensive exam and became a PhD candidate in Uiowa. </p>
+<p>In December 2019, I received <a href="https://gpsg.uiowa.edu/grants-for-students/"> Graduate & Professional Student Government (GSPG) Grants</a>. </p>
+<p>In October 2019, I received <a href="https://gss.grad.uiowa.edu/funding/gss-travel-funds/">Graduate College Presentation Travel/Virtual Conference Funds</a>. </p>
+<p>In August 2017, I joined the <a href="https://research.engineering.uiowa.edu/nsr/People">Networked Systems and Robotics (NSR)</a>  supervised by Prof. <a href="https://auto.ustc.edu.cn/teacher-detail.php?i=119">Zhen Kan</a> and Prof. <a href="https://www.engineering.uiowa.edu/faculty-staff/shaoping-xiao">Shaoping Xiao</a> at the Mechanical Engieering in University of Iowa (UIOWA) as a PhD student. My research mainly relates to motion planning employing formal methods and mechaine learning techniques</a>. </p>
+<p>In June 2015, I pursued the M.Sc. degree within the programme <a href="https://catalog.ufl.edu/UGRD/colleges-schools/UGENG/ARO_BSAE/">Aerospace Engineering</a> from <a href="http://www.ufl.edu">University of Florida</a>. </p>
+<p>In August 2011, I became a Bachelor student in <a href="http://en.njtu.edu.cn/">Beijing Institute of Technology (BIT)</a>.  </p>
+<p>I was born in <a href="https://en.wikipedia.org/wiki/Kunming">Kunming, China</a>.  </p>
 
 Getting started
 ======
