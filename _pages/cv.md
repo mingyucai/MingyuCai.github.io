@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Mingyu Cai (蔡明钰)"
 permalink: /cv/
 author_profile: true
 redirect_from:
