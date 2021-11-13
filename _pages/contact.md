@@ -5,7 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-======
 <table class="imgtable"><tr><td>
 <img src="https://mingyucai.github.io/files/portait.jpg" alt="" width="200px" height="208px" />&nbsp;</td>
 <td align="left"><p>Mingyu Cai <br />
