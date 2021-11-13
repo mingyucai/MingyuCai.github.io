@@ -9,7 +9,7 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Project Blog"
     url: /year-archive/
     
 # - title: "CV"
@@ -18,7 +18,7 @@ main:
   - title: "News"
     url: /markdown/
     
-  - title: "Teaching"
-    url: /teaching/  
+#  - title: "Teaching"
+#    url: /teaching/  
     
 
