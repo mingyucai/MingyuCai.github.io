@@ -7,10 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## 2021
 
-<div class="infoblock">
-<div class="blocktitle">2021</div>
 <div class="blockcontent">
 <ul>
   <li><p>October  15th: Presented a <a href="https://www.youtube.com/watch?v=84kze5vhbOg&t=2461s"> Talk</a> on safe deep reinforcement learning with temporal logic in <a href="https://wordpress.lehigh.edu/robotics/"> Autonomous and Intelligent Robotics Laboratory (AIRLab)</a> at Lehigh University.</p>
