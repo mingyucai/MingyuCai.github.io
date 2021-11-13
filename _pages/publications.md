@@ -4,7 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-# Journal Papers
+## Journal Papers
 <div class="infoblock">
 <div class="blocktitle"></div>
 <div class="blockcontent">
@@ -19,7 +19,7 @@ author_profile: true
 </div></div>
 
 
-# Conference Papers
+## Conference Papers
 <div class="infoblock">
 <div class="blocktitle"></div>
 <div class="blockcontent">
