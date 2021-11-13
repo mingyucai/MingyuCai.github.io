@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "News"
+title: ""
 author_profile: true
 redirect_from: 
   - /md/
