@@ -12,6 +12,6 @@ PhD Candidate<br />
 Mechanical Engineering <br />
 113 Research Drive, Building C, Bethlehem, PA 18015, USA <br />
 Cell: +352-665-9925<br />
-E-mail:<a href="mailto:mingyu-cai@lehigh.edu">mingyu-cai@lehigh.edu</a><br /></p>
+E-mail: <a href="mailto:mingyu-cai@lehigh.edu">mingyu-cai@lehigh.edu</a><br /></p>
 </td></tr>
 
