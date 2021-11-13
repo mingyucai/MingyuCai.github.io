@@ -22,10 +22,10 @@ Academic Services
 
 Biography
 ======
-* <p>In June 2021, I'm a Postdoc associate in <a href="https://cristianvasile.com/">Autonomous and Intelligent Robotics (AIR) Lab</a>.   </p>
+* <p>In June 2021, I'm a Postdoc associate in <a href="https://cristianvasile.com/">Autonomous and Intelligent Robotics (AIR) Lab </a>.   </p>
 * <p>In May 2021, I received my Doctoral degree from Uiowa.  </p>
-* <p>In February 2021, I joined the <a href="https://wordpress.lehigh.edu/robotics/">Autonomous and Intelligent Robotics (AIR) Lab </a> as a Visiting PhD in <a href="https://www1.lehigh.edu/">Lehigh University</a> supervised by Prof. <a href="https://scholar.google.com/citations?user=EOe-YRwAAAAJ&hl=en&oi=ao">Cristian-Ioan Vasile</a> </a>.  </p>
-* <p>In December 2020, I completed my dissertation of Doctoral degree</a>.  </p>
+* <p>In February 2021, I joined the <a href="https://wordpress.lehigh.edu/robotics/">Autonomous and Intelligent Robotics (AIR) Lab </a> as a Visiting PhD in <a href="https://www1.lehigh.edu/">Lehigh University</a> supervised by Prof. <a href="https://scholar.google.com/citations?user=EOe-YRwAAAAJ&hl=en&oi=ao">Cristian-Ioan Vasile</a>.  </p>
+* <p>In December 2020, I completed my dissertation of Doctoral degree.  </p>
 * <p>In Auguest 2020, I received <a href="https://www.grad.uiowa.edu/funding/fellowships/internal/post-comp"> Graduate College Post-comprehensive Research Fellowship</a>. </p>
 * <p>In February 2020, I completed my comprehensive exam and became a PhD candidate in Uiowa. </p>
 * <p>In December 2019, I received <a href="https://gpsg.uiowa.edu/grants-for-students/"> Graduate & Professional Student Government (GSPG) Grants</a>. </p>
