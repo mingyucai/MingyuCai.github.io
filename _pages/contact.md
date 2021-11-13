@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: ""
-excerpt: "About me"
+permalink: /contact/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 About Me
