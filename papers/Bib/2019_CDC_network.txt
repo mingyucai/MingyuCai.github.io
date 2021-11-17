@@ -1,0 +1,8 @@
+@inproceedings{she2019characterizing,
+  title={Characterizing herdability of signed networks via graph walks},
+  author={She, Baike and Cai, Mingyu and Kan, Zhen},
+  booktitle={2019 IEEE 58th Conference on Decision and Control (CDC)},
+  pages={5456--5461},
+  year={2019},
+  organization={IEEE}
+}
