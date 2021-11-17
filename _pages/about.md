@@ -13,7 +13,14 @@ About Me
 I am a Postdoctoral associate in the Explainable Robotics Lab (ERL) with
 the Department of Mechanical Engineering, Lehigh University, Bethlehem, USA. His research interests include motion planning and decision making employing formal methods, machine learning, and optimization. 
 
-I received the B.Eng in Aerospace Engineering from the Beijing Institute of Technology, Beijing, China in 2015, and the M.S.E degree in Mechanical and Aerospace Engineering from the University of Florida, Gainesville, USA in 2017. He obtained his Ph.D. degree in Mechanical Engineering with the University of Iowa in 2021. 
+Education:
+
+* <p> Ph.D., Mechanical Engineering , University of Iowa, Iowa City, USA, 2017</a>. </p>
+* <p> M.S.E, Mechanical and Aerospace Engineering, University of Florida, Gainesville, USA, 2017</a>. </p>
+* <p> B.Eng, Aerospace Engineering, the Beijing Institute of Technology, Beijing, China, 2015</a>. </p>
+
+
+I received the B.Eng in Aerospace Engineering from the Beijing Institute of Technology, Beijing, China in 2015, and the M.S.E degree in Mechanical and Aerospace Engineering from the University of Florida, Gainesville, USA in 2017. I obtained his Ph.D. degree in Mechanical Engineering with the University of Iowa in 2021. 
 
 Academic Services
 ======
