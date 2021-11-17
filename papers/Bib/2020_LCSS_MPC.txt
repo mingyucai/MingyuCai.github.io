@@ -1,0 +1,10 @@
+@article{cai2020receding,
+  title={Receding Horizon Control-Based Motion Planning With Partially Infeasible LTL Constraints},
+  author={Cai, Mingyu and Peng, Hao and Li, Zhijun and Gao, Hongbo and Kan, Zhen},
+  journal={IEEE Control Systems Letters},
+  volume={5},
+  number={4},
+  pages={1279--1284},
+  year={2020},
+  publisher={IEEE}
+}
