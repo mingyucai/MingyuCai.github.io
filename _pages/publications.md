@@ -9,6 +9,8 @@ author_profile: true
 <div class="blocktitle"></div>
 <div class="blockcontent">
 <ol>
+<li><p><a href="https://arxiv.org/pdf/2007.14325.pdf"><b>Optimal Probabilistic Motion Planning with Potential Infeasible LTL Constraints</b></a>.<br /> Mingyu Cai, Shaoping Xiao, Zhijun Li, Zhen Kan. IEEE Transactions on Automatic Control (TAC), to appear.</p>
+</li>
 <li><p><a href="https://ieeexplore.ieee.org/document/9506925"><b>Modular Deep Reinforcement Learning for Continuous Motion Planning With Temporal Logic</b></a>.<br /> <b>Mingyu Cai</b>, Mohammadhosein Hasanbeig, Shaoping Xiao, Alessandro Abate, Zhen Kan. IEEE Robotics and Automation Letters (RA-L), 2021.</p>
 </li>
 <li><p><a href="https://ieeexplore.ieee.org/abstract/document/9234439"><b>Receding Horizon Control-Based Motion Planning With Partially Infeasible LTL Specifications</b></a>.<br /> <b>Mingyu Cai</b>, Hao Peng, Zhijun Li, Hongbo Gao, Zhen Kan. IEEE Control Systems Letters, 2020.</p>
