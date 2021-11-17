@@ -1,0 +1,8 @@
+@inproceedings{cai2021reinforcement,
+  title={Reinforcement learning based temporal logic control with maximum probabilistic satisfaction},
+  author={Cai, Mingyu and Xiao, Shaoping and Li, Baoluo and Li, Zhiliang and Kan, Zhen},
+  booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={806--812},
+  year={2021},
+  organization={IEEE}
+}
