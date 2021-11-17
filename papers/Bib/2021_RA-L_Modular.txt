@@ -1,0 +1,10 @@
+@article{Cai2021modular,
+  title={Modular Deep Reinforcement Learning for Continuous Motion Planning with Temporal Logic},
+  author={Cai, Mingyu and Hasanbeig, Mohammadhosein and Xiao, Shaoping and Abate, Alessandro and Kan, Zhen},
+  journal={IEEE Robotics and Automation Letters},
+  volume={6},
+  number={4},
+  pages={7973-7980},
+  year={2021},
+  publisher={IEEE}
+}
