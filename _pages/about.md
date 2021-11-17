@@ -19,9 +19,6 @@ Education:
 * <p> M.S.E, Mechanical and Aerospace Engineering, University of Florida, Gainesville, USA, 2017</a>. </p>
 * <p> B.Eng, Aerospace Engineering, the Beijing Institute of Technology, Beijing, China, 2015</a>. </p>
 
-
-I received the B.Eng in Aerospace Engineering from the Beijing Institute of Technology, Beijing, China in 2015, and the M.S.E degree in Mechanical and Aerospace Engineering from the University of Florida, Gainesville, USA in 2017. I obtained his Ph.D. degree in Mechanical Engineering with the University of Iowa in 2021. 
-
 Academic Services
 ======
 * Conference Reviewer:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), International Conference on Robotics and Automation (ICRA),  IEEE conference on Decision and Control (CDC),  American Control Conference (ACC)
