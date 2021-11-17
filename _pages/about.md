@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am a Postdoctoral associate in <a href="https://cristianvasile.com/">Explainable Robotics Lab (ERL) with
+I am a Postdoctoral associate in <a href="https://cristianvasile.com/">Explainable Robotics Lab (ERL) </a> with
 the Department of Mechanical Engineering, Lehigh University, Bethlehem, USA. His research interests include motion planning and decision making employing formal methods, machine learning, and optimization. 
 
 Education:
