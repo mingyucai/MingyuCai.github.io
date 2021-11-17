@@ -21,7 +21,7 @@ author_profile: true
 </li>
   
 <li><p><a href="https://ieeexplore.ieee.org/abstract/document/9133331"><b>Learning-based probabilistic LTL motion planning with environment and motion uncertainties</b></a>.<br /><b>Mingyu Cai</b>, Hao Peng, Zhijun Li, Zhen Kan. IEEE Transactions on Automatic Control (TAC), 2020.
- <a href="/papers/Bib/2020_TAC_RL.txt">[Bibtex]</a> <a href="/papers/2020_TAC_RL.pdf">[PDF] </p>
+ <a href="/papers/Bib/2020_TAC_RL.txt">[Bibtex]</a> <a href="/papers/2020_TAC_RL.pdf">[PDF]</a> </p>
 </li>
 </ol>
 </div></div>
@@ -45,6 +45,7 @@ author_profile: true
 </li>
   
 <li><p><a href="https://ieeexplore.ieee.org/abstract/document/9029637"><b>Characterizing herdability of signed networks via graph walks</b></a>.<br /> Baike She,<b>Mingyu Cai</b>, Zhen Kan.  IEEE Conference on Decision and Control Conference (CDC), Orlando, FL, USA, December 2019.</p>
+  <a href="/papers/Bib/2019_CDC_network.txt">[Bibtex]</a> <a href="/papers/2019_CDC_network.pdf">[PDF]</a> </p>
 </li>
 </ol>
 </div></div>
