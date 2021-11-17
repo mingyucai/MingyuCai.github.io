@@ -35,7 +35,8 @@ author_profile: true
 <a href="/papers/Bib/2021_RA-L_Modular.txt">[Bibtex]</a> <a href="/papers/2021_RA-L_modular.pdf">[PDF]</a> <a href="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA">[Demo]</a> <a href="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA">[Code]</a></p>
 </li>
   
-<li><p><a href="https://arxiv.org/abs/2010.06797/"><b>Reinforcement Learning Based Temporal Logic Control with Maximum Probabilistic Satisfaction</b></a>.<br /><b>Mingyu Cai</b>, Shaoping Xiao, Baoluo Li, Zhiliang Li, Zhen Kan. IEEE International Conference on Robotics and Automation (ICRA). Xian, China, May 2021.</p>
+<li><p><a href="https://arxiv.org/abs/2010.06797/"><b>Reinforcement Learning Based Temporal Logic Control with Maximum Probabilistic Satisfaction</b></a>.<br /><b>Mingyu Cai</b>, Shaoping Xiao, Baoluo Li, Zhiliang Li, Zhen Kan. IEEE International Conference on Robotics and Automation (ICRA). Xian, China, May 2021.
+ <a href="/papers/Bib/2021_ICRA.txt">[Bibtex]</a> <a href="/papers/ICRA.pdf">[PDF]</a> <a href="https://github.com/mingyucai/E-LDGBA_RL">[Code]</a></p>
 </li>
   
 <li><p><a href="https://ieeexplore.ieee.org/abstract/document/9234439/"><b>Receding Horizon Control-Based Motion Planning With Partially Infeasible LTL Specifications</b></a>.<br /><b>Mingyu Cai</b>, Hao Peng, Zhijun Li, Hongbo Gao, Zhen Kan. American Control Conference (ACC), New Orleans, Louisiana, USA, June 2021.
