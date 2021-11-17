@@ -11,11 +11,15 @@ author_profile: true
 <ol>
 <li><p><a href="https://arxiv.org/pdf/2007.14325.pdf"><b>Optimal Probabilistic Motion Planning with Potential Infeasible LTL Constraints</b></a>.<br /> <b>Mingyu Cai</b>, Shaoping Xiao, Zhijun Li, Zhen Kan. IEEE Transactions on Automatic Control (TAC), to appear.</p>
 </li>
+  
 <li><p><a href="https://ieeexplore.ieee.org/document/9506925"><b>Modular Deep Reinforcement Learning for Continuous Motion Planning With Temporal Logic</b></a>.<br /> <b>Mingyu Cai</b>, Mohammadhosein Hasanbeig, Shaoping Xiao, Alessandro Abate, Zhen Kan. IEEE Robotics and Automation Letters (RA-L), 2021.
-<a href="/papers/Bib/2021_RA-L_Modular.txt">[Bibtex]</a> <a href="/papers/2021_RA-L_modular.pdf">[PDF]</a> <a href="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA">[Video]</a> <a href="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA">[Code]</a></p>
+<a href="/papers/Bib/2021_RA-L_Modular.txt">[Bibtex]</a> <a href="/papers/2021_RA-L_modular.pdf">[PDF]</a> <a href="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA">[Demo]</a> <a href="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA">[Code]</a></p>
 </li>
-<li><p><a href="https://ieeexplore.ieee.org/abstract/document/9234439"><b>Receding Horizon Control-Based Motion Planning With Partially Infeasible LTL Specifications</b></a>.<br /> <b>Mingyu Cai</b>, Hao Peng, Zhijun Li, Hongbo Gao, Zhen Kan. IEEE Control Systems Letters, 2020.</p>
+  
+<li><p><a href="https://ieeexplore.ieee.org/abstract/document/9234439"><b>Receding Horizon Control-Based Motion Planning With Partially Infeasible LTL Specifications</b></a>.<br /> <b>Mingyu Cai</b>, Hao Peng, Zhijun Li, Hongbo Gao, Zhen Kan. IEEE Control Systems Letters, 2020.
+ <a href="/papers/Bib/2021_RA-L_Modular.txt">[Bibtex]</a> <a href="/papers/2021_RA-L_modular.pdf">[PDF]</a> <a href="https://mingyucai.github.io/personal_page/Model_Predictive_Conrol-LTL.html">[Demo]</a> <a href="https://www.youtube.com/watch?v=16j6TmVUrTk&t=2s">[Video1]</a> <a href="https://www.youtube.com/watch?v=RyRnKXDDH5U&t=90s">[Vidoe2]</a> <a href="https://github.com/mingyucai/Model_Predictive_Conrol-LTL">[Code]</a></p>
 </li>
+  
 <li><p><a href="https://ieeexplore.ieee.org/abstract/document/9133331"><b>Learning-based probabilistic LTL motion planning with environment and motion uncertainties</b></a>.<br /><b>Mingyu Cai</b>, Hao Peng, Zhijun Li, Zhen Kan. IEEE Transactions on Automatic Control (TAC), 2020.</p>
 </li>
 </ol>
