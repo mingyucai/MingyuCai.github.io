@@ -20,7 +20,8 @@ author_profile: true
  <a href="/papers/Bib/2020_LCSS_MPC.txt">[Bibtex]</a> <a href="/papers/2020_LCSS_MPC.pdf">[PDF]</a> <a href="https://mingyucai.github.io/personal_page/Model_Predictive_Conrol-LTL.html">[Demo]</a> <a href="https://www.youtube.com/watch?v=16j6TmVUrTk&t=2s">[Video]</a> <a href="https://github.com/mingyucai/Model_Predictive_Conrol-LTL">[Code]</a></p>
 </li>
   
-<li><p><a href="https://ieeexplore.ieee.org/abstract/document/9133331"><b>Learning-based probabilistic LTL motion planning with environment and motion uncertainties</b></a>.<br /><b>Mingyu Cai</b>, Hao Peng, Zhijun Li, Zhen Kan. IEEE Transactions on Automatic Control (TAC), 2020.</p>
+<li><p><a href="https://ieeexplore.ieee.org/abstract/document/9133331"><b>Learning-based probabilistic LTL motion planning with environment and motion uncertainties</b></a>.<br /><b>Mingyu Cai</b>, Hao Peng, Zhijun Li, Zhen Kan. IEEE Transactions on Automatic Control (TAC), 2020.
+ <a href="/papers/Bib/2020_TAC_RL.txt">[Bibtex]</a> <a href="/papers/2020_TAC_RL.pdf">[PDF] </p>
 </li>
 </ol>
 </div></div>
