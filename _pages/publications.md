@@ -9,6 +9,9 @@ author_profile: true
 <div class="blocktitle"></div>
 <div class="blockcontent">  
 <ol>
+
+<li><p><a href="https://arxiv.org/pdf/2007.14325.pdf"><b>Optimal Probabilistic Motion Planning with Potential Infeasible LTL Constraints</b></a>.<br /> <b>Mingyu Cai</b>, Shaoping Xiao, Zhijun Li, Zhen Kan. IEEE Transactions on Automatic Control (TAC), to appear.</p>
+</li>
   
 <li><p><a href="https://arxiv.org/pdf/2007.14325.pdf"><b>Optimal Probabilistic Motion Planning with Potential Infeasible LTL Constraints</b></a>.<br /> <b>Mingyu Cai</b>, Shaoping Xiao, Zhijun Li, Zhen Kan. IEEE Transactions on Automatic Control (TAC), to appear.</p>
 </li>
