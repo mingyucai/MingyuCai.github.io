@@ -9,7 +9,7 @@ author_profile: true
 <div class="blocktitle"></div>
 <div class="blockcontent">
 <ol>
-<li><p><a href="https://arxiv.org/pdf/2007.14325.pdf"><b>Safe-Critical Modular Deep Reinforcement Learning with Temporal Logic through Gaussian Processes and Control Barrier Functions</b></a>.<br /> <b>Mingyu Cai</b>, Cristian-Ioan Vasile. under review.
+<li><p><a href="https://arxiv.org/pdf/2007.14325.pdf"><b>Safe-Critical Modular Deep Reinforcement Learning with Temporal Logic through Gaussian Processes and Control Barrier Functions</b></a>.<br /> <b>Mingyu Cai</b>, Cristian-Ioan Vasile. Under review.
 <a href="https://arxiv.org/abs/2109.02791">[PDF]</a> <a href="https://www.youtube.com/watch?v=fkCyAgx_FWM">[Video]</p>
 </li>
   
