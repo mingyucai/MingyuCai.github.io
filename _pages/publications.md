@@ -7,12 +7,8 @@ author_profile: true
 ## Journal Papers
 <div class="infoblock">
 <div class="blocktitle"></div>
-<div class="blockcontent">
+<div class="blockcontent">  
 <ol>
-<li><p><a href="https://arxiv.org/pdf/2007.14325.pdf"><b>Safe-Critical Modular Deep Reinforcement Learning with Temporal Logic through Gaussian Processes and Control Barrier Functions</b></a>.<br /> <b>Mingyu Cai</b>, Cristian-Ioan Vasile. Under review.
-<a href="https://arxiv.org/abs/2109.02791">[PDF]</a> <a href="https://www.youtube.com/watch?v=fkCyAgx_FWM">[Video]. </p>
-</li>
-  
 <li><p><a href="https://arxiv.org/pdf/2007.14325.pdf"><b>Optimal Probabilistic Motion Planning with Potential Infeasible LTL Constraints</b></a>.<br /> <b>Mingyu Cai</b>, Shaoping Xiao, Zhijun Li, Zhen Kan. IEEE Transactions on Automatic Control (TAC), to appear.</p>
 </li>
   
@@ -20,7 +16,7 @@ author_profile: true
 <a href="/papers/Bib/2021_RA-L_Modular.txt">[Bibtex]</a> <a href="/papers/2021_RA-L_modular.pdf">[PDF]</a> <a href="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA">[Demo]</a> <a href="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA">[Code]</a></p>
 </li>
   
-<li><p><a href="https://ieeexplore.ieee.org/abstract/document/9234439"><b>Receding Horizon Control-Based Motion Planning With Partially Infeasible LTL Specifications</b></a>.<br /> <b>Mingyu Cai</b>, Hao Peng, Zhijun Li, Hongbo Gao, Zhen Kan. IEEE Control Systems Letters (L-CSS), 2020.
+<li><p><a href="https://ieeexplore.ieee.org/abstract/document/9234439"><b>Receding Horizon Control-Based Motion Planning With Partially Infeasible LTL Specifications</b></a>.<br /> <b>Mingyu Cai</b>, Hao Peng, Zhijun Li, Hongbo Gao, Zhen Kan. IEEE Control Systems Letters, 2020.
  <a href="/papers/Bib/2020_LCSS_MPC.txt">[Bibtex]</a> <a href="/papers/2020_LCSS_MPC.pdf">[PDF]</a> <a href="https://mingyucai.github.io/personal_page/Model_Predictive_Conrol-LTL.html">[Demo]</a> <a href="https://www.youtube.com/watch?v=16j6TmVUrTk&t=2s">[Video]</a> <a href="https://github.com/mingyucai/Model_Predictive_Conrol-LTL">[Code]</a></p>
 </li>
   
