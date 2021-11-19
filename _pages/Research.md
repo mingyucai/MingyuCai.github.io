@@ -4,7 +4,7 @@ title: ""
 permalink: /Research/
 author_profile: true
 ---
-
+</tbody></table>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
      <tr>
           <td style="padding:20px;width:50%;vertical-align:top">
