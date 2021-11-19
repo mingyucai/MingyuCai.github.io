@@ -12,7 +12,7 @@ author_profile: true
     </td>
     <td style="padding:20px;width:80%;vertical-align:middle">
       <a href="https://thaipduong.github.io/hamadapt/">
-          <papertitle>Safe-Critical Modular Deep Reinforcement Learning with Temporal Logic through Gaussian Processes and Control Barrier Functions</papertitle>
+          <papertitle><strong>Safe-Critical Modular Deep Reinforcement Learning with Temporal Logic through Gaussian Processes and Control Barrier Functions</strong></papertitle>
       </a>
       <br>
       <strong>Mingyu Cai</strong>,
