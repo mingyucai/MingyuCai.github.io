@@ -49,6 +49,32 @@ author_profile: true
               <p>This project investigates the motion planning of autonomous dynamical systems modeled by Markov decision processes (MDP) with unknown transition probabilities over continuous state and action spaces. Linear temporal logic (LTL) is used to specify high-level tasks over infinite horizon such that the objective is to find controllers satisfying the complex tasks with probabilistic guarantees. A modular deep deterministic policy gradient (DDPG) is then developed to generate such policies over continuous state and action spaces. The performance of our framework is evaluated via an array of OpenAI gym environments. </p>
   </td>
 </tbody></table>
+
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+             <td style="padding:20px;width:30%;vertical-align:top">
+              <img src='/files/Safe_modular/demo1.jpg' width="220">
+               <br>
+                 <img src='/files/Safe_modular/demo2.jpg' width="220">
+            </td>
+            <td style="padding:20px;width:80%;vertical-align:middle">
+              <a href="https://arxiv.org/pdf/2007.12123.pdf">
+                  <papertitle><strong> Online Motion Planning with Temporal Logic using Model Predictive Control</strong></papertitle>
+              </a>
+              <br>
+              <strong>Mingyu Cai</strong>, Zhiliang Li, Hao Peng, Shaoping Xiao, Zhen Kan
+              <br>
+              <br>
+              <a href="https://www.youtube.com/watch?v=16j6TmVUrTk&t=2s">Video1</a> /
+              <a href="https://www.youtube.com/watch?v=RyRnKXDDH5U&t=4s">Video2</a> /
+              <a href="https://www.youtube.com/watch?v=S_jfavmFIMo&t=4s">Video3</a> /
+              <a href="https://arxiv.org/pdf/2102.12855.pdf">PDF1</a> /
+              <a href="https://arxiv.org/pdf/2102.12855.pdf">PDF2</a>
+              <p></p>
+              <p>considers online optimal motion planning of an autonomous agent subject to linear temporal logic (LTL) and Metric Inteval Temporal Logic (MITL) constraints. 
+              The environment is dynamic in the sense of containing mobile obstacles and time-varying areas of interest (i.e., time-varying reward and workspace properties) to be visited by the agent. Since user-specified tasks may not be fully realized (i.e., partially infeasible), this work considers hard and soft task-constraints, where hard constraints enforce safety requirement (e.g. avoid obstacles) while soft constraints represent tasks that can be relaxed to not strictly follow user specifications. The motion planning of the agent is to generate policies, in decreasing order of priority, to 1) formally guarantee the satisfaction of safety constraints; 2) mostly satisfy soft constraints (i.e., minimize the violation cost if desired tasks are partially infeasible); and 3) optimize the objective of rewards collection (i.e., visiting dynamic areas of more interests). </p>
+  </td>
+</tbody></table>
       
 
               
