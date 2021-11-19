@@ -12,11 +12,11 @@ author_profile: true
     </td>
     <td style="padding:20px;width:80%;vertical-align:middle">
       <a href="https://thaipduong.github.io/hamadapt/">
-          <papertitle>Learning Adaptive Control for SE(3) Hamiltonian Dynamics</papertitle>
+          <papertitle>Safe-Critical Modular Deep Reinforcement Learning with Temporal Logic through Gaussian Processes and Control Barrier Functions</papertitle>
       </a>
       <br>
-      <strong>Thai Duong</strong>,
-      <a href="https://natanaso.github.io/">Nikolay Atanasov</a>
+      <strong>Mingyu Cai</strong>,
+      <a href="https://cristianvasile.com/">Cristian-Ioan Vasile</a>
       <br>
       <em>In submission</em>, 2021.
       <br>
