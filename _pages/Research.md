@@ -27,7 +27,9 @@ author_profile: true
   </td>
 </tbody></table>
 
-
+<br> <!-- New line --> 
+<br> <!-- New line --> 
+<br> <!-- New line --> 
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
              <td style="padding:20px;width:30%;vertical-align:top">
