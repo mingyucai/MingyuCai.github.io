@@ -53,7 +53,7 @@ author_profile: true
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
              <td style="padding:20px;width:30%;vertical-align:top">
-              <img src='/files/Safe_modular/MPC.JPG' width="180">
+              <img src='/files/Safe_modular/MPC.JPG' width="220">
             </td>
             <td style="padding:20px;width:80%;vertical-align:middle">
               <a href="https://arxiv.org/pdf/2007.12123.pdf">
