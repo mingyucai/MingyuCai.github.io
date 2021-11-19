@@ -12,7 +12,7 @@ author_profile: true
                <br>
                  <img src='/files/Safe_modular/particale.jpg' width="320">
             </td>
-            <td style="padding:20px;width:70%;vertical-align:middle">
+            <td style="padding:20px;width:80%;vertical-align:middle">
               <a href="https://arxiv.org/abs/2109.02791">
                   <papertitle><strong>Safe-Critical Modular Deep Reinforcement Learning with Temporal Logic through Gaussian Processes and Control Barrier Functions</strong></papertitle>
               </a>
