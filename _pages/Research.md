@@ -24,6 +24,6 @@ author_profile: true
 <p> <center> <img src='/papers_files/Safety_Critical/Demo.png' width="720"> </center></p>            
      
 </tr>
-
+</tbody></table
      
 
