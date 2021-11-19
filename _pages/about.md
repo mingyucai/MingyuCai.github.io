@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am a Postdoctoral associate in Explainable Robotics Lab (ERL) working with <a href="https://cristianvasile.com/">Cristian-Ioan Vasile </a>
+I am 蔡明钰， a Postdoctoral associate in Explainable Robotics Lab (ERL) working with <a href="https://cristianvasile.com/">Cristian-Ioan Vasile </a>
 in the Department of Mechanical Engineering, Lehigh University, Bethlehem, USA. My research interests include robotics, machine learning, formal methods, motion planning, decision making, optimal control, and autonomous driving.  
 
 Education:
