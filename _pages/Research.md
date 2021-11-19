@@ -5,6 +5,7 @@ permalink: /Research/
 author_profile: true
 ---
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+</tbody></table>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
              <td style="padding:20px;width:30%;vertical-align:top">
               <img src='/files/Safe_modular/Mars_exploration.jpg' width="220">
@@ -32,6 +33,7 @@ author_profile: true
 <br> <!-- New line --> 
   
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+</tbody></table>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
              <td style="padding:20px;width:30%;vertical-align:top">
               <img src='/files/Safe_modular/demo1.jpg' width="220">
@@ -58,6 +60,7 @@ author_profile: true
 <br> <!-- New line --> 
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+</tbody></table>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
              <td style="padding:20px;width:30%;vertical-align:top">
               <img src='/files/Safe_modular/MPC.JPG' width="220">
