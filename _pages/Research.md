@@ -39,7 +39,7 @@ author_profile: true
             </td>
             <td style="https://arxiv.org/abs/2109.02791">
               <a href="https://thaipduong.github.io/hamadapt/">
-                  <papertitle><strong>Safe-Critical Modular Deep Reinforcement Learning with Temporal Logic through Gaussian Processes and Control Barrier Functions</strong></papertitle>
+                  <papertitle><strong>Modular deep reinforcement learning for continuous motion planning with temporal logic</strong></papertitle>
               </a>
               <br>
               <strong>Mingyu Cai</strong>, Cristian-Ioan Vasile
