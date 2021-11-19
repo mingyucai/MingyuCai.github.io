@@ -4,7 +4,7 @@ title: ""
 permalink: /Research/
 author_profile: true
 ---
-</tbody></table>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
              <td style="padding:20px;width:30%;vertical-align:top">
               <img src='/files/Safe_modular/Mars_exploration.jpg' width="220">
@@ -30,7 +30,8 @@ author_profile: true
 <br> <!-- New line --> 
 <br> <!-- New line --> 
 <br> <!-- New line --> 
-</tbody></table>
+  
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
              <td style="padding:20px;width:30%;vertical-align:top">
               <img src='/files/Safe_modular/demo1.jpg' width="220">
@@ -56,7 +57,7 @@ author_profile: true
 <br> <!-- New line --> 
 <br> <!-- New line --> 
 
-</tbody></table>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
              <td style="padding:20px;width:30%;vertical-align:top">
               <img src='/files/Safe_modular/MPC.JPG' width="220">
