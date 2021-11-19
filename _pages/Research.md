@@ -35,16 +35,16 @@ author_profile: true
                <br>
                  <img src='/files/Safe_modular/demo2.jpg' width="320">
             </td>
-            <td style="https://arxiv.org/abs/2109.02791">
-              <a href="https://thaipduong.github.io/hamadapt/">
+            <td style="padding:20px;width:80%;vertical-align:middle">
+              <a href="https://arxiv.org/pdf/2102.12855.pdf">
                   <papertitle><strong>Modular deep reinforcement learning for continuous motion planning with temporal logic</strong></papertitle>
               </a>
               <br>
               <strong>Mingyu Cai</strong>, Mohammadhosein Hasanbeig, Shaoping Xiao, Alessandro Abate, Zhen Kan
               <br>
               <br>
-              <a href="https://www.youtube.com/watch?v=fkCyAgx_FWM/">Video</a> /
-              <a href="https://arxiv.org/abs/2109.02791">PDF</a>
+              <a href="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA">Demo</a> /
+              <a href="https://arxiv.org/pdf/2102.12855.pdf">PDF</a>
               <p></p>
               <p>This project investigates the motion planning of autonomous dynamical systems modeled by Markov decision processes (MDP) with unknown transition probabilities over continuous state and action spaces. Linear temporal logic (LTL) is used to specify high-level tasks over infinite horizon such that the objective is to find controllers satisfying the complex tasks with probabilistic guarantees. A modular deep deterministic policy gradient (DDPG) is then developed to generate such policies over continuous state and action spaces. The performance of our framework is evaluated via an array of OpenAI gym environments. </p>
   </td>
