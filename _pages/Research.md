@@ -15,7 +15,6 @@ author_profile: true
            <strong>Mingyu Cai</strong>,
            <a href="https://cristianvasile.com/">Cristian-Ioan Vasile</a>
            <br>
-           <em>In submission</em>, 2021.
            <br>
            <a href="https://www.youtube.com/watch?v=fkCyAgx_FWM/">Video</a> /
            <a href="https://arxiv.org/abs/2109.02791">PDF</a>
