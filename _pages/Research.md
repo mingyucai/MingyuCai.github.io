@@ -31,10 +31,7 @@ author_profile: true
 
 </tbody></table>
 
-          </tbody></table>
-          
-          
-                <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
              <td style="padding:20px;width:30%;vertical-align:top">
               <img src='images/se3hamdl/gif/trajtracking.gif' width="220">
                <br>
