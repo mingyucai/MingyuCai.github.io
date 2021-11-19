@@ -5,12 +5,12 @@ permalink: /Research/
 author_profile: true
 ---
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-     <td style="padding:20px;width:30%;vertical-align:top">
+     <td style="padding:20px;width:50%;vertical-align:top">
       <img src='/papers_files/Safety_Critical/Algorithm.png' width="220">
        <br>
          <img src='/papers_files/Safety_Critical/Policy_Demo.jpg' width="220">
     </td>
-    <td style="padding:20px;width:80%;vertical-align:middle">
+    <td style="padding:20px;width:50%;vertical-align:middle">
       <a href="https://arxiv.org/abs/2109.02791">
           <papertitle><strong>Safe-Critical Modular Deep Reinforcement Learning with Temporal Logic through Gaussian Processes and Control Barrier Functions</strong></papertitle>
       </a>
