@@ -69,7 +69,7 @@ author_profile: true
               <a href="https://arxiv.org/pdf/2102.12855.pdf">PDF1</a> /
               <a href="https://arxiv.org/pdf/2102.12855.pdf">PDF2</a>
               <p></p>
-              <p>considers online optimal motion planning of an autonomous agent subject to linear temporal logic (LTL) and Metric Inteval Temporal Logic (MITL) constraints. 
+              <p>This project considers online optimal motion planning of an autonomous agent subject to linear temporal logic (LTL) and Metric Inteval Temporal Logic (MITL) constraints. 
               The environment is dynamic in the sense of containing mobile obstacles and time-varying areas of interest (i.e., time-varying reward and workspace properties) to be visited by the agent. Since user-specified tasks may not be fully realized (i.e., partially infeasible), this work considers hard and soft task-constraints, where hard constraints enforce safety requirement (e.g. avoid obstacles) while soft constraints represent tasks that can be relaxed to not strictly follow user specifications. The motion planning of the agent is to generate policies, in decreasing order of priority, to 1) formally guarantee the satisfaction of safety constraints; 2) mostly satisfy soft constraints (i.e., minimize the violation cost if desired tasks are partially infeasible); and 3) optimize the objective of rewards collection (i.e., visiting dynamic areas of more interests). </p>
   </td>
 </tbody></table>
