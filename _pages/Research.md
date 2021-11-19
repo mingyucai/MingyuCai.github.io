@@ -7,9 +7,9 @@ author_profile: true
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
              <td style="padding:20px;width:30%;vertical-align:top">
-              <img src='/files/Safe_modular/Mars_exploration.jpg' width="320">
+              <img src='/files/Safe_modular/Mars_exploration.jpg' width="220">
                <br>
-                 <img src='/files/Safe_modular/particale.jpg' width="320">
+                 <img src='/files/Safe_modular/particale.jpg' width="220">
             </td>
             <td style="padding:20px;width:80%;vertical-align:middle">
               <a href="https://arxiv.org/abs/2109.02791">
@@ -31,9 +31,9 @@ author_profile: true
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
              <td style="padding:20px;width:30%;vertical-align:top">
-              <img src='/files/Safe_modular/demo1.jpg' width="320">
+              <img src='/files/Safe_modular/demo1.jpg' width="220">
                <br>
-                 <img src='/files/Safe_modular/demo2.jpg' width="320">
+                 <img src='/files/Safe_modular/demo2.jpg' width="220">
             </td>
             <td style="padding:20px;width:80%;vertical-align:middle">
               <a href="https://arxiv.org/pdf/2102.12855.pdf">
