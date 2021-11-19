@@ -27,3 +27,24 @@ author_profile: true
               </td></tr></table></center>
     </td>
 </tr>
+     
+<div class="infoblock">
+<div class="blockcontent">
+<h2>Application One </h2>
+<ul>
+<li><p>Follow the <a href="https://github.com/MengGuo/P-MAS-TG/blob/master/Example.py">Example.py</a></p>
+</li>
+<li><p>Applied to two agents simultaneously.</p>
+</li>
+<li><p>Motion and action plan for flexible task specifications. </p>
+</li>
+<li><p>Simulation and demonstration. <a href="https://www.youtube.com/watch?v=a75iwD5dFYY">[Video 1]</a> <a href="https://www.youtube.com/watch?v=WJRJI_dCdHE">[Video 2]</a></p>
+</li>
+</ul>
+</div></div>
+<center><table class="imgtable"><tr><td>
+<img src="images/nor.png" alt="simulation and demonstration for nominal scenario" width="700px" />&nbsp;</td><tr/>
+<tr><td><center></center>
+</td></tr></table></center>
+<div class="infoblock">
+<div class="blockcontent">
