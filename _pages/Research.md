@@ -23,7 +23,7 @@ author_profile: true
               <a href="https://www.youtube.com/watch?v=fkCyAgx_FWM/">Video</a> /
               <a href="https://arxiv.org/abs/2109.02791">PDF</a>
               <p></p>
-              <p>Reinforcement learning (RL) is a promising approach. However, success is limited towards real-world applications, because ensuring safe exploration and facilitating adequate exploitation is a challenge for controlling robotic systems with unknown models and measurement uncertainties. The learning problem becomes even more difficult for complex tasks over continuous state-space and action-space. In this project, we propose a learning-based control framework to satisfy high-level complex task while ensure safe during training.</p>
+              <p>Reinforcement learning (RL) is a promising approach. However, success is limited towards real-world applications, because ensuring safe exploration and facilitating adequate exploitation is a challenge for controlling robotic systems with unknown models and measurement uncertainties. The learning problem becomes even more difficult for complex tasks over continuous state-space and action-space. In this project, we propose a learning-based control framework to satisfy high-level complex task while ensure safe during training. The algorithm is tested in the case of Marx exploration. </p>
   </td>
 </tr>
 
