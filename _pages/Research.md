@@ -39,13 +39,13 @@ author_profile: true
                   <papertitle><strong>Modular deep reinforcement learning for continuous motion planning with temporal logic</strong></papertitle>
               </a>
               <br>
-              <strong>Mingyu Cai</strong>, Cristian-Ioan Vasile
+              <strong>Mingyu Cai</strong>, Mohammadhosein Hasanbeig, Shaoping Xiao, Alessandro Abate, Zhen Kan
               <br>
               <br>
               <a href="https://www.youtube.com/watch?v=fkCyAgx_FWM/">Video</a> /
               <a href="https://arxiv.org/abs/2109.02791">PDF</a>
               <p></p>
-              <p>Reinforcement learning (RL) is a promising approach. However, success is limited towards real-world applications, because ensuring safe exploration and facilitating adequate exploitation is a challenge for controlling robotic systems with unknown models and measurement uncertainties. The learning problem becomes even more difficult for complex tasks over continuous state-space and action-space. In this project, we propose a learning-based control framework to satisfy high-level complex task while ensure safe during training. </p>
+              <p>This project investigates the motion planning of autonomous dynamical systems modeled by Markov decision processes (MDP) with unknown transition probabilities over continuous state and action spaces. Linear temporal logic (LTL) is used to specify high-level tasks over infinite horizon such that the objective is to find controllers satisfying the complex tasks with probabilistic guarantees. A modular deep deterministic policy gradient (DDPG) is then developed to generate such policies over continuous state and action spaces. The performance of our framework is evaluated via an array of OpenAI gym environments. </p>
   </td>
 </tbody></table>
       
