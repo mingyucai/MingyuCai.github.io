@@ -46,9 +46,6 @@ Biography
 </tbody></table>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
             <td style="padding:20px;width:80%;vertical-align:middle">
-              <a href="https://arxiv.org/abs/2109.02791">
-                  <papertitle><strong>Safe-Critical Modular Deep Reinforcement Learning with Temporal Logic through Gaussian Processes and Control Barrier Functions</strong></papertitle>
-              </a>
               <br>
               <strong>Mingyu Cai</strong>, Cristian-Ioan Vasile
               <br>
