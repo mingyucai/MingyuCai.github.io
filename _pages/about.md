@@ -45,7 +45,7 @@ Biography
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 </tbody></table>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-            <td style="padding:20px;width:80%;vertical-align:middle">
+            <td style="padding:20px;width:70%;vertical-align:middle">
               <p></p>
  * <p>In June 2021, I'm a Postdoc associate in <a href="https://cristianvasile.com/">Explainable Robotics Lab (ERL) </a>.   </p>
 * <p>In May 2021, I received my Doctoral degree from Uiowa.  </p>
@@ -59,7 +59,7 @@ Biography
 * <p>In June 2015, I pursued the M.Sc. degree within the programme <a href="https://catalog.ufl.edu/UGRD/colleges-schools/UGENG/ARO_BSAE/">Aerospace Engineering</a> from <a href="http://www.ufl.edu">University of Florida</a>. </p>
 * <p>In August 2011, I became a Bachelor student in <a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a>.  </p>
   </td>
-               <td style="padding:20px;width:30%;vertical-align:top">
+               <td style="padding:20px;width:40%;vertical-align:top">
               <img src='/files/Research_photo.jpg' width="220">
                <br>
             </td>
