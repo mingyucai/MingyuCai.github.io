@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+About Me
+======
+
 <p align="center">
   <img src="/files/Research_photo.jpg" alt="Photo" style="width: 450px;"/> 
 </p>
 
-About Me
-======
 I am Mingyu Cai (蔡明钰)， a Postdoctoral associate in Explainable Robotics Lab (ERL) working with <a href="https://cristianvasile.com/">Cristian-Ioan Vasile </a>
 in the Department of Mechanical Engineering, Lehigh University, Bethlehem, USA. My research interests include robotics, machine learning, formal methods, motion planning, decision making, optimal control, and autonomous driving.  
 
