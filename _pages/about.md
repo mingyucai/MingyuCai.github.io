@@ -57,7 +57,6 @@ Biography
               <a href="https://arxiv.org/abs/2109.02791">PDF</a>
               <p></p>
               <p>Reinforcement learning (RL) is a promising approach. However, success is limited towards real-world applications, because ensuring safe exploration and facilitating adequate exploitation is a challenge for controlling robotic systems with unknown models and measurement uncertainties. The learning problem becomes even more difficult for complex tasks over continuous state-space and action-space. In this project, we propose a learning-based control framework to satisfy high-level complex task while ensure safe during training. </p>
-              <center> <img src='/files/Safe_modular/Modular_architecture.jpg' width="420"> </center>
   </td>
                <td style="padding:20px;width:30%;vertical-align:top">
               <img src='/files/Safe_modular/Mars_exploration.jpg' width="220">
