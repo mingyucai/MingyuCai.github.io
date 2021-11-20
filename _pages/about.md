@@ -46,12 +46,6 @@ Biography
 </tbody></table>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
             <td style="padding:20px;width:80%;vertical-align:middle">
-              <br>
-              <strong>Mingyu Cai</strong>, Cristian-Ioan Vasile
-              <br>
-              <br>
-              <a href="https://www.youtube.com/watch?v=fkCyAgx_FWM/">Video</a> /
-              <a href="https://arxiv.org/abs/2109.02791">PDF</a>
               <p></p>
               <p>Reinforcement learning (RL) is a promising approach. However, success is limited towards real-world applications, because ensuring safe exploration and facilitating adequate exploitation is a challenge for controlling robotic systems with unknown models and measurement uncertainties. The learning problem becomes even more difficult for complex tasks over continuous state-space and action-space. In this project, we propose a learning-based control framework to satisfy high-level complex task while ensure safe during training. </p>
   </td>
