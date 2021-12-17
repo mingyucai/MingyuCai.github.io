@@ -18,7 +18,7 @@ author_profile: true
 </li>
   
 <li><p><a href="https://github.com/mingyucai/mingyucai.github.io/blob/master/papers/2022_RA-L_Hetro.pdf"><b>Probabilistic Coordination of Heterogeneous Teams From Capability Temporal Logic Specifications</b></a>.<br /> <b>Mingyu Cai</b>, Kevin Leahy, Zachary Serlin, Cristian-Ioan Vasile. IEEE Robotics and Automation Letters (RA-L), 2022.
-<a href="/papers/Bib/2021_RA-L_Modular.txt">[Bibtex]</a> <a href="/papers/2022_RA-L_Hetro.pdf">[PDF]</a> </p>
+<a href="/papers/2022_RA-L_Hetro.pdf">[PDF]</a> </p>
 </li>
   
 <li><p><a href="https://ieeexplore.ieee.org/document/9506925"><b>Modular Deep Reinforcement Learning for Continuous Motion Planning With Temporal Logic</b></a>.<br /> <b>Mingyu Cai</b>, Mohammadhosein Hasanbeig, Shaoping Xiao, Alessandro Abate, Zhen Kan. IEEE Robotics and Automation Letters (RA-L), 2021.
@@ -41,6 +41,11 @@ author_profile: true
 <div class="blocktitle"></div>
 <div class="blockcontent">
 <ol>
+  
+<li><p><a href="https://github.com/mingyucai/mingyucai.github.io/blob/master/papers/2022_RA-L_Hetro.pdf"><b>Probabilistic Coordination of Heterogeneous Teams From Capability Temporal Logic Specifications</b></a>.<br /> <b>Mingyu Cai</b>, Kevin Leahy, Zachary Serlin, Cristian-Ioan Vasile. IEEE International Conference on Robotics and Automation (ICRA). Philadelphia, USA, May 2022. To appear.
+<a href="/papers/2022_RA-L_Hetro.pdf">[PDF]</a> </p>
+</li>
+  
 <li><p><a href="https://ieeexplore.ieee.org/document/9506925"><b>Modular Deep Reinforcement Learning for Continuous Motion Planning With Temporal Logic</b></a>.<br /> <b>Mingyu Cai</b>, Mohammadhosein Hasanbeig, Shaoping Xiao, Alessandro Abate, Zhen Kan. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.
 <a href="/papers/Bib/2021_RA-L_Modular.txt">[Bibtex]</a> <a href="/papers/2021_RA-L_modular.pdf">[PDF]</a> <a href="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA">[Demo]</a> <a href="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA">[Code]</a></p>
 </li>
