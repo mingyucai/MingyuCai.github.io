@@ -14,7 +14,7 @@ author_profile: true
 <a href="https://arxiv.org/abs/2109.02791">[PDF]</a> <a href="https://www.youtube.com/watch?v=fkCyAgx_FWM">[Video]</a> </p>
 </li>
   
-<li><p><a href="https://ieeexplore.ieee.org/abstract/document/9664320"><b>Optimal Probabilistic Motion Planning with Potential Infeasible LTL Constraints</b></a>.<br /> <b>Mingyu Cai</b>, Shaoping Xiao, Zhijun Li, Zhen Kan. IEEE Transactions on Automatic Control (TAC).</p>  <a href="/papers/2022_TAC_Optimal.pdf">[PDF]</a>
+<li><p><a href="https://ieeexplore.ieee.org/abstract/document/9664320"><b>Optimal Probabilistic Motion Planning with Potential Infeasible LTL Constraints</b></a>.<br /> <b>Mingyu Cai</b>, Shaoping Xiao, Zhijun Li, Zhen Kan. IEEE Transactions on Automatic Control (TAC).  <a href="/papers/2022_TAC_Optimal.pdf">[PDF]</a> </p>
 </li>
   
 <li><p><a href="/papers/2022_RA-L_Hetro.pdf"><b>Probabilistic Coordination of Heterogeneous Teams From Capability Temporal Logic Specifications</b></a>.<br /> <b>Mingyu Cai</b>, Kevin Leahy, Zachary Serlin, Cristian-Ioan Vasile. IEEE Robotics and Automation Letters (RA-L), to appear.</p>
