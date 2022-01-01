@@ -17,7 +17,7 @@ author_profile: true
 <li><p><a href="https://ieeexplore.ieee.org/abstract/document/9664320"><b>Optimal Probabilistic Motion Planning with Potential Infeasible LTL Constraints</b></a>.<br /> <b>Mingyu Cai</b>, Shaoping Xiao, Zhijun Li, Zhen Kan. IEEE Transactions on Automatic Control (TAC).  <a href="/papers/2022_TAC_Optimal.pdf">[PDF]</a> </p>
 </li>
   
-<li><p><a href="/papers/2022_RA-L_Hetro.pdf"><b>Probabilistic Coordination of Heterogeneous Teams From Capability Temporal Logic Specifications</b></a>.<br /> <b>Mingyu Cai</b>, Kevin Leahy, Zachary Serlin, Cristian-Ioan Vasile. IEEE Robotics and Automation Letters (RA-L), to appear.</p>
+<li><p><a href="https://ieeexplore.ieee.org/abstract/document/9664260"><b>Probabilistic Coordination of Heterogeneous Teams From Capability Temporal Logic Specifications</b></a>.<br /> <b>Mingyu Cai</b>, Kevin Leahy, Zachary Serlin, Cristian-Ioan Vasile. IEEE Robotics and Automation Letters (RA-L). <a href="/papers/2022_RA-L_Hetro.pdf">[PDF]</a> </p>
 </li>
  
 <li><p><a href="https://ieeexplore.ieee.org/document/9506925"><b>Modular Deep Reinforcement Learning for Continuous Motion Planning With Temporal Logic</b></a>.<br /> <b>Mingyu Cai</b>, Mohammadhosein Hasanbeig, Shaoping Xiao, Alessandro Abate, Zhen Kan. IEEE Robotics and Automation Letters (RA-L), 2021.
