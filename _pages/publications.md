@@ -10,7 +10,7 @@ author_profile: true
 <div class="blockcontent">  
 <ol>
 
-<li><p><a href="https://arxiv.org/pdf/2007.14325.pdf"><b>Safety-Critical Modular Deep Reinforcement Learning with Temporal Logic through Gaussian Processes and Control Barrier Functions</b></a>.<br /> <b>Mingyu Cai</b>, Cristian-Ioan Vasile. Under Review.
+<li><p><a href="https://arxiv.org/abs/2109.02791"><b>Safety-Critical Modular Deep Reinforcement Learning with Temporal Logic through Gaussian Processes and Control Barrier Functions</b></a>.<br /> <b>Mingyu Cai</b>, Cristian-Ioan Vasile. Under Review.
 <a href="https://arxiv.org/abs/2109.02791">[PDF]</a> <a href="https://www.youtube.com/watch?v=fkCyAgx_FWM">[Video]</a> </p>
 </li>
   
@@ -48,7 +48,7 @@ author_profile: true
 <a href="/papers/Bib/2021_RA-L_Modular.txt">[Bibtex]</a> <a href="/papers/2021_RA-L_modular.pdf">[PDF]</a> <a href="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA">[Demo]</a> <a href="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA">[Code]</a></p>
 </li>
   
-<li><p><a href="https://arxiv.org/abs/2010.06797/"><b>Reinforcement Learning Based Temporal Logic Control with Maximum Probabilistic Satisfaction</b></a>.<br /><b>Mingyu Cai</b>, Shaoping Xiao, Baoluo Li, Zhiliang Li, Zhen Kan. <em> IEEE International Conference on Robotics and Automation (ICRA). Xian, China, May 2021.</em>
+<li><p><a href="https://ieeexplore.ieee.org/document/9561903"><b>Reinforcement Learning Based Temporal Logic Control with Maximum Probabilistic Satisfaction</b></a>.<br /><b>Mingyu Cai</b>, Shaoping Xiao, Baoluo Li, Zhiliang Li, Zhen Kan. <em> IEEE International Conference on Robotics and Automation (ICRA). Xian, China, May 2021.</em>
  <a href="/papers/Bib/2021_ICRA.txt">[Bibtex]</a> <a href="/papers/ICRA.pdf">[PDF]</a> <a href="https://github.com/mingyucai/E-LDGBA_RL">[Code]</a></p>
 </li>
   
