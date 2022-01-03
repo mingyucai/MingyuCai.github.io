@@ -40,6 +40,9 @@ author_profile: true
 <div class="blocktitle"></div>
 <div class="blockcontent">
 <ol>
+
+<li><p><a href="https://ieeexplore.ieee.org/abstract/document/9664260"><b>Probabilistic Coordination of Heterogeneous Teams From Capability Temporal Logic Specifications</b></a>.<br /> <b>Mingyu Cai</b>, Kevin Leahy, Zachary Serlin, Cristian-Ioan Vasile. <em> IEEE International Conference on Robotics and Automation (ICRA), Philadelphia, USA, May, 2022 </em>. <a href="/papers/2022_RA-L_Hetro.pdf">[PDF]</a> </p>
+</li>
   
 <li><p><a href="https://ieeexplore.ieee.org/document/9506925"><b>Modular Deep Reinforcement Learning for Continuous Motion Planning With Temporal Logic</b></a>.<br /> <b>Mingyu Cai</b>, Mohammadhosein Hasanbeig, Shaoping Xiao, Alessandro Abate, Zhen Kan. <em> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) </em>, 2021.
 <a href="/papers/Bib/2021_RA-L_Modular.txt">[Bibtex]</a> <a href="/papers/2021_RA-L_modular.pdf">[PDF]</a> <a href="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA">[Demo]</a> <a href="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA">[Code]</a></p>
