@@ -16,7 +16,7 @@ in the Department of Mechanical Engineering, Lehigh University, Bethlehem, USA. 
 
 Education:
 
-* <p> Ph.D., Mechanical Engineering , University of Iowa, Iowa City, USA, 2020. </p>
+* <p> Ph.D., Mechanical Engineering , University of Iowa, Iowa City, USA, 2021. </p>
 * <p> M.S.E, Mechanical and Aerospace Engineering, University of Florida, Gainesville, USA, 2017. </p>
 * <p> B.Eng, Aerospace Engineering, the Beijing Institute of Technology, Beijing, China, 2015. </p>
 
