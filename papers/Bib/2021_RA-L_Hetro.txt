@@ -1,0 +1,7 @@
+@article{cai2021probabilistic,
+  title={Probabilistic Coordination of Heterogeneous Teams From Capability Temporal Logic Specifications},
+  author={Cai, Mingyu and Leahy, Kevin and Serlin, Zachary and Vasile, Cristian Ioan},
+  journal={IEEE Robotics and Automation Letters},
+  year={2021},
+  publisher={IEEE}
+}
