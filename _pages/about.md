@@ -11,8 +11,8 @@ redirect_from:
 About Me
 ======
 
-I am Mingyu Cai (蔡明钰)， a Postdoctoral associate in Explainable Robotics Lab (ERL) working with <a href="https://cristianvasile.com/">Cristian-Ioan Vasile </a>
-in the Department of Mechanical Engineering, Lehigh University, Bethlehem, USA. My research interests include robotics, machine learning, formal methods, motion planning, decision making, optimal control, and autonomous driving.  
+I am Mingyu Cai (蔡明钰), a Postdoctoral associate in Explainable Robotics Lab (ERL) working with <a href="https://cristianvasile.com/">Cristian-Ioan Vasile </a>
+in the Department of Mechanical Engineering, Lehigh University, Bethlehem, PA, USA. My research interests include robotics, machine learning, formal methods, motion planning, decision making, optimal control, and autonomous driving.  
 
 Education:
 
@@ -29,7 +29,7 @@ Academic Services
 Biography
 ======
 * <p>In June 2021, I'm a Postdoc associate in <a href="https://cristianvasile.com/">Explainable Robotics Lab (ERL) </a>.   </p>
-* <p>In May 2021, I received my Doctoral degree from Uiowa.  </p>
+* <p>In May 2021, I received my Doctoral degree from University of Iowa.  </p>
 * <p>In February 2021, I joined the <a href="https://wordpress.lehigh.edu/robotics/">Autonomous and Intelligent Robotics (AIR) Lab </a> as a Visiting PhD in <a href="https://www1.lehigh.edu/">Lehigh University</a> supervised by Prof. <a href="https://scholar.google.com/citations?user=EOe-YRwAAAAJ&hl=en&oi=ao">Cristian-Ioan Vasile</a>.  </p>
 * <p>In December 2020, I completed my dissertation of Doctoral degree.  </p>
 * <p>In Auguest 2020, I received <a href="https://www.grad.uiowa.edu/funding/fellowships/internal/post-comp"> Graduate College Post-comprehensive Research Fellowship</a>. </p>
