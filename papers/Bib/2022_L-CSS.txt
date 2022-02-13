@@ -1,0 +1,7 @@
+@article{li2022online,
+  title={Online Motion Planning with Soft Metric Interval Temporal Logic in Unknown Dynamic Environment},
+  author={Li, Zhiliang and Cai, Mingyu and Xiao, Shaoping and Kan, Zhen},
+  journal={IEEE Control Systems Letters},
+  year={2022},
+  publisher={IEEE}
+}
