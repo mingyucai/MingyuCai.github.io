@@ -14,7 +14,7 @@ redirect_from:
 <ul>
  <li><p> May 26th: Presented a <a href="https://www.youtube.com/watch?v=DgnUI9CoGhk&t=221s"> Talk</a> on Probabilistic Coordination of Heterogeneous Teams From Capability Temporal Logic Specifications in <a href="https://www.icra2022.org/"> 2022 International Conference on Robotics and Automation (ICRA)</a> at Philadelphia (PA), USA.</p>
 </li>
-<li><p>Feb 25th: Invited <a href="https://sites.google.com/view/larslindemann/main-page"> Lars Lindemann</a> to present a <a href="Lars Lindemann"> Talk</a> on Safe and Robust Data Enabled Autonomy in <a href="https://wordpress.lehigh.edu/robotics/"> Autonomous and Intelligent Robotics Laboratory (AIRLab)</a> at Lehigh University.</p>
+<li><p>Feb 25th: Invited <a href="https://sites.google.com/view/larslindemann/main-page"> Lars Lindemann</a> to present a <a href=https://www.youtube.com/watch?v=5YfFqmTkSjs&t=91s"> Talk</a> on Safe and Robust Data Enabled Autonomy in <a href="https://wordpress.lehigh.edu/robotics/"> Autonomous and Intelligent Robotics Laboratory (AIRLab)</a> at Lehigh University.</p>
 </li>
 
 </ul>
