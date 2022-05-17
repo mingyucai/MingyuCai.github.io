@@ -7,6 +7,17 @@ redirect_from:
   - /markdown.html
 ---
 
+## 2022
+<div class="infoblock">
+<div class="blocktitle"></div>
+<div class="blockcontent">
+<ul>
+ <li><p> May 26th: Presented a <a href="https://www.youtube.com/watch?v=DgnUI9CoGhk&t=221s"> Talk</a> on Probabilistic Coordination of Heterogeneous Teams From Capability Temporal Logic Specifications in <a href="https://www.icra2022.org/"> 2022 International Conference on Robotics and Automation (ICRA)</a> at Philadelphia (PA), USA.</p>
+</li>
+
+</ul>
+</div></div>
+
 ## 2021
 <div class="infoblock">
 <div class="blocktitle"></div>
