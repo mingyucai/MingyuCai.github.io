@@ -1,5 +1,5 @@
 ---
-title: "Safe-Critical Modular Deep Reinforcement Learning with Temporal Logic"
+title: "Probabilistic Coordination of Heterogeneous Teams From Capability Temporal Logic Specifications"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2021-10-21-talkl-4
