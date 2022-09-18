@@ -27,7 +27,7 @@ author_profile: true
 In this paper, we focus on these two aspects and present a deep policy gradient algorithm for a task-guided robot with unknown dynamic systems deployed in a complex cluttered environment. Linear Temporal Logic (LTL) is applied to express a rich robotic specification.
 To overcome the environmental challenge of exploration during training, we propose a novel path planning-guided reward scheme that is dense over the state space, and crucially, robust to the infeasibility of computed geometric paths due to the black-box dynamics.
 To facilitate LTL satisfaction, our approach decomposes the LTL mission into sub-tasks that are solved using distributed DRL, where the sub-tasks can be trained in parallel, using Deep Policy Gradient algorithms.</p>
-              <center> <img src='/files/RA_L/ICML.png' width="420"> </center>
+              <center> <img src='/files/RA_L/Automaton.png' width="420"> </center>
   </td>
 </tbody></table>
 
