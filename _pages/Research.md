@@ -39,6 +39,38 @@ To facilitate LTL satisfaction, our approach decomposes the LTL mission into sub
 </tbody></table>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
              <td style="padding:20px;width:30%;vertical-align:top">
+              <img src='/files/ICRA/Real.PNG' width="220">
+               <br>
+                 <img src='/files/ICRA/sim_visual.PNG' width="220">
+            </td>
+            <td style="padding:20px;width:80%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/2109.02791">
+                  <papertitle><strong>A Robotic Visual Grasping Design: Rethinking Convolution Neural Network with High-Resolutions</strong></papertitle>
+              </a>
+              <br>
+              <strong>Mingyu Cai</strong>, Efan Aasi, Calin Belta, Cristian-Ioan Vasile
+              <br>
+              <br>
+              <a href="https://www.youtube.com/watch?v=ioyJdMljCjg">Video</a> /
+              <a href="https://arxiv.org/pdf/2209.07459.pdf">PDF</a>
+              <p></p>
+              <p>High-resolution representations are important for vision-based robotic grasping problems. Existing works generally encode the input images into low-resolution representations via sub-networks and then recover high-resolution representations. This will lose spatial information, and errors introduced by the decoder will be more serious when multiple types of objects are considered or objects are far away from the camera.
+To address these issues, we revisit the design paradigm of CNN for robotic perception tasks. We demonstrate that using parallel branches as opposed to serial stacked convolutional layers will be a more powerful design for robotic visual grasping tasks.
+In particular, guidelines of neural network design are provided for robotic perception tasks, e.g., high-resolution representation and lightweight design, which 
+respond to the challenges in different manipulation scenarios. We then develop a novel grasping visual architecture referred to as HRG-Net, a parallel-branch structure that always maintains a high-resolution representation and repeatedly exchanges information
+across resolutions. Extensive experiments validate that these two designs can effectively enhance the accuracy of visual-based grasping and accelerate network training.</p>
+              <center> <img src='/files/ICRA/Network.PNG' width="420"> </center>
+  </td>
+</tbody></table>
+
+<br> <!-- New line --> 
+<br> <!-- New line --> 
+<br> <!-- New line --> 
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+</tbody></table>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+             <td style="padding:20px;width:30%;vertical-align:top">
               <img src='/files/Safe_modular/Mars_exploration.jpg' width="220">
                <br>
                  <img src='/files/Safe_modular/particale.jpg' width="220">
