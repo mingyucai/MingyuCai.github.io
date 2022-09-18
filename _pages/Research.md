@@ -7,10 +7,10 @@ author_profile: true
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 </tbody></table>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-             <td style="padding:20px;width:60%;vertical-align:top">
-              <img src='/files/RA_L/Car.png' width="220">
+             <td style="padding:20px;width:30%;vertical-align:top">
+              <img src='/files/RA_L/Car.png' width="420">
                <br>
-                 <img src='/files/RA_L/Drone.png' width="220">
+                 <img src='/files/RA_L/Drone.png' width="420">
             </td>
             <td style="padding:20px;width:80%;vertical-align:middle">
               <a href="https://arxiv.org/abs/2109.02791">
