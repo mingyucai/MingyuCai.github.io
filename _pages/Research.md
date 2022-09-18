@@ -8,6 +8,37 @@ author_profile: true
 </tbody></table>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
              <td style="padding:20px;width:30%;vertical-align:top">
+              <img src='/files/RA_L/Car.png' width="220">
+               <br>
+                 <img src='/files/RA_L/Drone.png' width="220">
+            </td>
+            <td style="padding:20px;width:80%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/2109.02791">
+                  <papertitle><strong>Overcoming Exploration: Deep Reinforcement Learning for Model-free Continuous Navigation Control in Complex Environments from Temporal Logic Sepcifications</strong></papertitle>
+              </a>
+              <br>
+              <strong>Mingyu Cai</strong>, Efan Aasi, Calin Belta, Cristian-Ioan Vasile
+              <br>
+              <br>
+              <a href="https://www.youtube.com/watch?v=YQRQ2-yMtIk">Video</a> /
+              <a href="https://arxiv.org/pdf/2201.12231.pdf">PDF</a>
+              <p></p>
+              <p>Exploration is a fundamental challenge in Deep Reinforcement Learning (DRL) based model-free navigation control since typical exploration techniques for target-driven navigation tasks rely on noise or greedy policies, which are sensitive to the density of rewards. In practice, robots are always deployed in complex cluttered environments, containing dense obstacles and narrow passageways, raising natural spare rewards that are hard to be explored for training. Such a problem becomes even more serious when pre-defined tasks are complex and have rich expressivity.
+In this paper, we focus on these two aspects and present a deep policy gradient algorithm for a task-guided robot with unknown dynamic systems deployed in a complex cluttered environment. Linear Temporal Logic (LTL) is applied to express a rich robotic specification.
+To overcome the environmental challenge of exploration during training, we propose a novel path planning-guided reward scheme that is dense over the state space, and crucially, robust to the infeasibility of computed geometric paths due to the black-box dynamics.
+To facilitate LTL satisfaction, our approach decomposes the LTL mission into sub-tasks that are solved using distributed DRL, where the sub-tasks can be trained in parallel, using Deep Policy Gradient algorithms.</p>
+              <center> <img src='/files/RA_L/Automaton.png' width="420"> </center>
+  </td>
+</tbody></table>
+
+<br> <!-- New line --> 
+<br> <!-- New line --> 
+<br> <!-- New line --> 
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+</tbody></table>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+             <td style="padding:20px;width:30%;vertical-align:top">
               <img src='/files/Safe_modular/Mars_exploration.jpg' width="220">
                <br>
                  <img src='/files/Safe_modular/particale.jpg' width="220">
