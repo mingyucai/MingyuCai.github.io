@@ -17,7 +17,7 @@ author_profile: true
                   <papertitle><strong>Overcoming Exploration: Deep Reinforcement Learning for Model-free Continuous Navigation Control in Complex Environments from Temporal Logic Sepcifications</strong></papertitle>
               </a>
               <br>
-              Zhangli Zhou, Shaochen Wang, Ziyang Chen, <strong>Mingyu Cai</strong>, Zhen Kan
+             <strong>Mingyu Cai</strong>, Efan Aasi, Calin Belta, Cristian-Ioan Vasile
               <br>
               <br>
               <a href="https://www.youtube.com/watch?v=YQRQ2-yMtIk">Video</a> /
@@ -48,7 +48,7 @@ To facilitate LTL satisfaction, our approach decomposes the LTL mission into sub
                   <papertitle><strong>A Robotic Visual Grasping Design: Rethinking Convolution Neural Network with High-Resolutions</strong></papertitle>
               </a>
               <br>
-              <strong>Mingyu Cai</strong>, Efan Aasi, Calin Belta, Cristian-Ioan Vasile
+              Zhangli Zhou, Shaochen Wang, Ziyang Chen, <strong>Mingyu Cai</strong>, Zhen Kan
               <br>
               <br>
               <a href="https://www.youtube.com/watch?v=ioyJdMljCjg">Video</a> /
