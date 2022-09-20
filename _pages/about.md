@@ -16,7 +16,7 @@ in the Department of Mechanical Engineering, Lehigh University, Bethlehem, PA, U
 
 Education:
 
-* <p> Visiting Ph.D., Autonomous and Intelligent Robotics Laboratory, Lehig University, Bethlehem, USA, 2021. </p>
+* <p> visiting Ph.D., Autonomous and Intelligent Robotics Laboratory, Lehig University, Bethlehem, USA, 2021. </p>
 * <p> Ph.D., Mechanical Engineering, University of Iowa, Iowa City, USA, 2021. </p>
 * <p> M.S.E, Mechanical and Aerospace Engineering, University of Florida, Gainesville, USA, 2017. </p>
 * <p> B.Eng, Aerospace Engineering, the Beijing Institute of Technology, Beijing, China, 2015. </p>
