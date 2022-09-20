@@ -25,7 +25,7 @@ Academic Services
 ======
 * We're organizing the weekly seminal of <a href="https://wordpress.lehigh.edu/robotics/">Autonomous and Intelligent Robotics (AIR) Lab </a>. You are very welcome to present talks. Please contact me if you're interested.
 * Conference Reviewer:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), International Conference on Robotics and Automation (ICRA),  IEEE conference on Decision and Control (CDC),  American Control Conference (ACC), International Conference on Machine Learning (ICML)
-* Journal Reviewer:  IEEE Transactions on Automatic Control (TAC),  IEEE Transactions on Robotics (T-RO), IEEE Robotics and Automation Letters (RA-L),  IEEE Control Systems Letters (L-CSS)
+* Journal Reviewer:  IEEE Transactions on Automatic Control (TAC),  IEEE Transactions on Robotics (T-RO), IEEE Robotics and Automation Letters (RA-L),  IEEE Control Systems Letters (L-CSS), IEEE Transactions on Control of Network Systems (TCNS)
 
 Biography
 ======
