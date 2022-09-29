@@ -141,8 +141,9 @@ across resolutions. Extensive experiments validate that these two designs can ef
               <br>
               <br>
               <a href="https://www.youtube.com/watch?v=16j6TmVUrTk&t=2s">Video1</a> /
-              <a href="https://www.youtube.com/watch?v=RyRnKXDDH5U&t=4s">Video2</a> /
-              <a href="https://www.youtube.com/watch?v=S_jfavmFIMo&t=4s">Video3</a> /
+              <a href="https://www.youtube.com/watch?v=ZbFlxj_ZCyA">Video2</a> /
+              <a href="https://www.youtube.com/watch?v=RyRnKXDDH5U&t=4s">Video3</a> /
+              <a href="https://www.youtube.com/watch?v=S_jfavmFIMo&t=4s">Video4</a> /
               <a href="https://arxiv.org/pdf/2007.12123.pdf">PDF1</a> /
               <a href="https://arxiv.org/pdf/2110.09007.pdf">PDF2</a>
               <p></p>
