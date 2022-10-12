@@ -1,0 +1,7 @@
+@article{cai2021optimal,
+  title={Optimal probabilistic motion planning with potential infeasible LTL constraints},
+  author={Cai, Mingyu and Xiao, Shaoping and Li, Zhijun and Kan, Zhen},
+  journal={IEEE Transactions on Automatic Control},
+  year={2021},
+  publisher={IEEE}
+}
