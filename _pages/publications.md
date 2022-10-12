@@ -20,7 +20,7 @@ author_profile: true
 <li><p><a href="https://link.springer.com/article/10.1007/s13177-022-00321-5"><b>Intelligent Traffic Light via Policy-based Deep Reinforcement Learning</b></a>.<br /> Yue Zhu, <b>Mingyu Cai</b>, Chris W. Schwarz, Junchao Li, Shaoping Xiao. <em> International Journal of Intelligent Transportation Systems Research 2022.</em>  <a href="/papers/Bib/2022_Transportation.txt">[Bibtex]</a> <a href="/papers/2022_Transportation.pdf">[PDF]</a> </p>
 </li>
   
-<li><p><a href="https://ieeexplore.ieee.org/document/9687668"><b>Online Motion Planning with Soft Metric Interval Temporal Logic in Unknown Dynamic Environment</b></a>.<br /> Zhiliang Li, <b>Mingyu Cai*</b>, Shaoping Xiao, Zhen Kan. <em> IEEE Control Systems Letters (L-CSS), 2022.</em> <a href="/papers/Bib/2022_L-CSS.txt">[Bibtex]</a> <a href="/papers/2022_L-CSS.pdf">[PDF]</a> </p>
+<li><p><a href="https://ieeexplore.ieee.org/document/9687668"><b>Online Motion Planning with Soft Metric Interval Temporal Logic in Unknown Dynamic Environment</b></a>.<br /> Zhiliang Li, <b>Mingyu Cai*</b>, Shaoping Xiao, Zhen Kan. <em> IEEE Control Systems Letters (L-CSS), 2022.</em> <a href="/papers/Bib/2022_L-CSS.txt">[Bibtex]</a> <a href="/papers/2022_L-CSS.pdf">[PDF]</a>a href="https://youtu.be/6FZicZsGBLg">[Video]</a> </p>
 </li>
   
 <li><p><a href="https://ieeexplore.ieee.org/abstract/document/9664260"><b>Probabilistic Coordination of Heterogeneous Teams From Capability Temporal Logic Specifications</b></a>.<br /> <b>Mingyu Cai</b>, Kevin Leahy, Zachary Serlin, Cristian-Ioan Vasile. <em> IEEE Robotics and Automation Letters (RA-L), 2022.</em> <a href="/papers/Bib/2021_RA-L_Hetro.txt">[Bibtex]</a> <a href="/papers/2022_RA-L_Hetro.pdf">[PDF]</a> </p>
@@ -31,7 +31,7 @@ author_profile: true
 </li>
   
 <li><p><a href="https://ieeexplore.ieee.org/abstract/document/9234439"><b>Receding Horizon Control-Based Motion Planning With Partially Infeasible LTL Specifications</b></a>.<br /> <b>Mingyu Cai</b>, Hao Peng, Zhijun Li, Hongbo Gao, Zhen Kan. <em> IEEE Control Systems Letters (L-CSS), 2020.</em>
- <a href="/papers/Bib/2020_LCSS_MPC.txt">[Bibtex]</a> <a href="/papers/2020_LCSS_MPC.pdf">[PDF]</a> <a href="https://mingyucai.github.io/personal_page/Model_Predictive_Conrol-LTL.html">[Demo]</a> <a href="https://www.youtube.com/watch?v=16j6TmVUrTk&t=2s">[Video]</a> <a href="https://github.com/mingyucai/Model_Predictive_Conrol-LTL">[Code]</a></p>
+ <a href="/papers/Bib/2020_LCSS_MPC.txt">[Bibtex]</a> <a href="/papers/2020_LCSS_MPC.pdf">[PDF]</a>  <a href="https://www.youtube.com/watch?v=16j6TmVUrTk&t=2s">[Video]</a> <a href="https://github.com/mingyucai/Model_Predictive_Conrol-LTL">[Code]</a></p>
 </li>
   
 <li><p><a href="https://ieeexplore.ieee.org/abstract/document/9133331"><b>Learning-based probabilistic LTL motion planning with environment and motion uncertainties</b></a>.<br /><b>Mingyu Cai</b>, Hao Peng, Zhijun Li, Zhen Kan. <em> IEEE Transactions on Automatic Control (TAC), 2020.</em>
