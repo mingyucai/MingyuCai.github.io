@@ -14,7 +14,7 @@ author_profile: true
 <a href="https://arxiv.org/abs/2109.02791">[PDF]</a> <a href="https://www.youtube.com/watch?v=fkCyAgx_FWM">[Video]</a> </p>
 </li>
   
-<li><p><a href="https://ieeexplore.ieee.org/abstract/document/9664320"><b>Optimal Probabilistic Motion Planning with Potential Infeasible LTL Constraints</b></a>.<br /> <b>Mingyu Cai</b>, Shaoping Xiao, Zhijun Li, Zhen Kan. <em> IEEE Transactions on Automatic Control (TAC), 2022.</em>  <a href="/papers/2022_TAC_Optimal.pdf">[PDF]</a> </p>
+<li><p><a href="https://ieeexplore.ieee.org/abstract/document/9664320"><b>Optimal Probabilistic Motion Planning with Potential Infeasible LTL Constraints</b></a>.<br /> <b>Mingyu Cai</b>, Shaoping Xiao, Zhijun Li, Zhen Kan. <em> IEEE Transactions on Automatic Control (TAC), 2022.</em> <a href="/papers/Bib/2021_TAC.txt">[Bibtex]</a> <a href="/papers/2022_TAC_Optimal.pdf">[PDF]</a> </p>
 </li>
   
 <li><p><a href="https://link.springer.com/article/10.1007/s13177-022-00321-5"><b>Intelligent Traffic Light via Policy-based Deep Reinforcement Learning</b></a>.<br /> Yue Zhu, <b>Mingyu Cai</b>, Chris W. Schwarz, Junchao Li, Shaoping Xiao. <em> International Journal of Intelligent Transportation Systems Research 2022.</em>  <a href="/papers/Bib/2022_Transportation.txt">[Bibtex]</a> <a href="/papers/2022_Transportation.pdf">[PDF]</a> </p>
