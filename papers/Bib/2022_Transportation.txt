@@ -1,2 +1,11 @@
+@article{cai2021optimal,
+  title={Intelligent Traffic Light via Policy-based Deep Reinforcement Learning},
+  author={Zhu, Yue and Cai, Mingyu and Chris W. Schwarz and Li, Junchao and Xiao, Shaoping},
+  journal={International Journal of Intelligent Transportation Systems Research},
+  year={2022},
+  DOI = {https://doi.org/10.1007/s13177-022-00321-5}
+  publisher={Springer}
+}
+
 Zhu, Y., Cai, M., Schwarz, C.W. et al. Intelligent Traffic Light via Policy-based Deep Reinforcement Learning. 
 Int. J. ITS Res. (2022). https://doi.org/10.1007/s13177-022-00321-5
