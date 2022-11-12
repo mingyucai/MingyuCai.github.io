@@ -54,7 +54,7 @@ To facilitate LTL satisfaction, our approach decomposes the LTL mission into sub
               <br>
               <a href="https://arxiv.org/pdf/2210.01910.pdf">Paper1</a> /
               <a href="https://arxiv.org/abs/2112.14300">Paper2</a> /
-              <a href="https://ieeexplore.ieee.org/abstract/document/9653809">Related Literature</a> /
+              <a href="https://ieeexplore.ieee.org/abstract/document/9653809">Related Literature</a> 
               <p></p>
               <p>Machine learning techniques using neural networks have achieved promising success for time-series data classification. However, the models that they produce are challenging to verify and interpret.
 In this paper, we propose an explainable neural-symbolic framework for the classification of time-series behaviors. In particular, we use an expressive formal language, namely Signal Temporal Logic (STL), to constrain the search of the computation graph for a neural network. We design a novel time function and sparse softmax function to improve the soundness and precision of the neural-STL framework. As a result, we can efficiently learn a compact STL formula for the classification of time-series data through off-the-shelf gradient-based tools.
