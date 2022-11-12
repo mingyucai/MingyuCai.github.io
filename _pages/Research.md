@@ -21,7 +21,7 @@ author_profile: true
               <br>
               <br>
               <a href="https://www.youtube.com/watch?v=YQRQ2-yMtIk">Video</a> /
-              <a href="https://arxiv.org/pdf/2201.12231.pdf">PDF</a>
+              <a href="https://arxiv.org/pdf/2201.12231.pdf">Paper</a>
               <p></p>
               <p>Exploration is a fundamental challenge in Deep Reinforcement Learning (DRL) based model-free navigation control since typical exploration techniques for target-driven navigation tasks rely on noise or greedy policies, which are sensitive to the density of rewards. In practice, robots are always deployed in complex cluttered environments, containing dense obstacles and narrow passageways, raising natural spare rewards that are hard to be explored for training. Such a problem becomes even more serious when pre-defined tasks are complex and have rich expressivity.
 In this project, we focus on these two aspects and present a deep policy gradient algorithm for a task-guided robot with unknown dynamic systems deployed in a complex cluttered environment. Linear Temporal Logic (LTL) is applied to express a rich robotic specification.
@@ -83,7 +83,7 @@ To facilitate LTL satisfaction, our approach decomposes the LTL mission into sub
               <br>
               <br>
               <a href="https://www.youtube.com/watch?v=fkCyAgx_FWM/">Video</a> /
-              <a href="https://arxiv.org/abs/2109.02791">PDF</a>
+              <a href="https://arxiv.org/abs/2109.02791">Paper</a>
               <p></p>
               <p>Reinforcement learning (RL) is a promising approach. However, success is limited towards real-world applications, because ensuring safe exploration and facilitating adequate exploitation is a challenge for controlling robotic systems with unknown models and measurement uncertainties. The learning problem becomes even more difficult for complex tasks over continuous state-space and action-space. In this project, we propose a learning-based control framework to satisfy high-level complex task while ensure safe during training. </p>
               <center> <img src='/files/Safe_modular/Modular_architecture.jpg' width="420"> </center>
@@ -112,7 +112,7 @@ To facilitate LTL satisfaction, our approach decomposes the LTL mission into sub
               <br>
               <br>
               <a href="https://www.youtube.com/watch?v=ioyJdMljCjg">Video</a> /
-              <a href="https://arxiv.org/pdf/2209.07459.pdf">PDF</a>
+              <a href="https://arxiv.org/pdf/2209.07459.pdf">Paper</a>
               <p></p>
               <p>High-resolution representations are important for vision-based robotic grasping problems. Existing works generally encode the input images into low-resolution representations via sub-networks and then recover high-resolution representations. This will lose spatial information, and errors introduced by the decoder will be more serious when multiple types of objects are considered or objects are far away from the camera.
 To address these issues, we revisit the design paradigm of CNN for robotic perception tasks. We demonstrate that using parallel branches as opposed to serial stacked convolutional layers will be a more powerful design for robotic visual grasping tasks.
@@ -146,7 +146,7 @@ across resolutions. Extensive experiments validate that these two designs can ef
               <br>
               <br>
               <a href="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA">Demo</a> /
-              <a href="https://arxiv.org/pdf/2102.12855.pdf">PDF</a>
+              <a href="https://arxiv.org/pdf/2102.12855.pdf">Paper</a>
               <p></p>
               <p>This project investigates the motion planning of autonomous dynamical systems modeled by Markov decision processes (MDP) with unknown transition probabilities over continuous state and action spaces. Linear temporal logic (LTL) is used to specify high-level tasks over infinite horizon such that the objective is to find controllers satisfying the complex tasks with probabilistic guarantees. A modular deep deterministic policy gradient (DDPG) is then developed to generate such policies over continuous state and action spaces. The performance of our framework is evaluated via an array of OpenAI gym environments. </p>
   </td>
@@ -174,8 +174,8 @@ across resolutions. Extensive experiments validate that these two designs can ef
               <a href="https://www.youtube.com/watch?v=6FZicZsGBLg">Video2</a> /
               <a href="https://www.youtube.com/watch?v=RyRnKXDDH5U&t=4s">Video3</a> /
               <a href="https://www.youtube.com/watch?v=S_jfavmFIMo&t=4s">Video4</a> /
-              <a href="https://arxiv.org/pdf/2007.12123.pdf">PDF1</a> /
-              <a href="https://arxiv.org/pdf/2110.09007.pdf">PDF2</a>
+              <a href="https://arxiv.org/pdf/2007.12123.pdf">Paper1</a> /
+              <a href="https://arxiv.org/pdf/2110.09007.pdf">Paper2</a>
               <p></p>
               <p>This project considers online optimal motion planning of an autonomous agent subject to linear temporal logic (LTL) or Metric Inteval Temporal Logic (MITL) constraints. 
               The environment is dynamic in the sense of containing mobile obstacles and time-varying areas of interest (i.e., time-varying reward and workspace properties) to be visited by the agent. Since user-specified tasks may not be fully realized (i.e., partially infeasible), this work considers hard and soft task-constraints, where hard constraints enforce safety requirement (e.g. avoid obstacles) while soft constraints represent tasks that can be relaxed to not strictly follow user specifications. The motion planning of the agent is to generate policies, in decreasing order of priority, to 1) formally guarantee the satisfaction of safety constraints; 2) mostly satisfy soft constraints (i.e., minimize the violation cost if desired tasks are partially infeasible); and 3) optimize the objective of rewards collection (i.e., visiting dynamic areas of more interests). </p>
