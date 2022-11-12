@@ -40,6 +40,37 @@ To facilitate LTL satisfaction, our approach decomposes the LTL mission into sub
 </tbody></table>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
              <td style="padding:20px;width:30%;vertical-align:top">
+              <img src='/files/Interpretable/Traffice1.PNG' width="220">
+               <br>
+                 <img src='/files/Interpretable/Decision-making.PNG' width="220">
+            </td>
+            <td style="padding:20px;width:80%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/2109.02791">
+                  <papertitle><strong>Overcoming Exploration: Deep Reinforcement Learning for Model-free Continuous Navigation Control in Complex Environments from Temporal Logic Sepcifications</strong></papertitle>
+              </a>
+              <br>
+             <strong> Danyang Li, Mingyu Cai</strong>, Efan Aasi, Calin Belta, Cristian-Ioan Vasile
+              <br>
+              <br>
+              <a href="https://www.youtube.com/watch?v=YQRQ2-yMtIk">Video</a> /
+              <a href="https://arxiv.org/pdf/2201.12231.pdf">PDF</a>
+              <p></p>
+              <p>Machine learning techniques using neural networks have achieved promising success for time-series data classification. However, the models that they produce are challenging to verify and interpret.
+In this paper, we propose an explainable neural-symbolic framework for the classification of time-series behaviors. In particular, we use an expressive formal language, namely Signal Temporal Logic (STL), to constrain the search of the computation graph for a neural network. We design a novel time function and sparse softmax function to improve the soundness and precision of the neural-STL framework. As a result, we can efficiently learn a compact STL formula for the classification of time-series data through off-the-shelf gradient-based tools.
+We demonstrate the computational efficiency, compactness, and interpretability of the proposed method through driving scenarios and naval surveillance case studies, compared with state-of-the-art baselines.</p>
+              <center> <img src='/files/Interpretable/NNTL.jpg' width="420"> </center>
+  </td>
+</tbody></table>
+
+<br> <!-- New line --> 
+<br> <!-- New line --> 
+<br> <!-- New line --> 
+
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+</tbody></table>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+             <td style="padding:20px;width:30%;vertical-align:top">
               <img src='/files/Safe_modular/Mars_exploration.jpg' width="220">
                <br>
                  <img src='/files/Safe_modular/particale.jpg' width="220">
