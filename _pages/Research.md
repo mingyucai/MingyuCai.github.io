@@ -46,14 +46,14 @@ To facilitate LTL satisfaction, our approach decomposes the LTL mission into sub
             </td>
             <td style="padding:20px;width:80%;vertical-align:middle">
               <a href="https://arxiv.org/abs/2109.02791">
-                  <papertitle><strong>Overcoming Exploration: Deep Reinforcement Learning for Model-free Continuous Navigation Control in Complex Environments from Temporal Logic Sepcifications</strong></papertitle>
+                  <papertitle><strong>Learning Signal Temporal Logic through Neural Network for Interpretable Classification</strong></papertitle>
               </a>
               <br>
              <strong> Danyang Li, Mingyu Cai</strong>, Efan Aasi, Calin Belta, Cristian-Ioan Vasile
               <br>
               <br>
-              <a href="https://www.youtube.com/watch?v=YQRQ2-yMtIk">Video</a> /
-              <a href="https://arxiv.org/pdf/2201.12231.pdf">PDF</a>
+              <a href="https://arxiv.org/pdf/2210.01910.pdf">PDF</a> /
+              <a href="https://arxiv.org/abs/2112.14300">PDF</a>
               <p></p>
               <p>Machine learning techniques using neural networks have achieved promising success for time-series data classification. However, the models that they produce are challenging to verify and interpret.
 In this paper, we propose an explainable neural-symbolic framework for the classification of time-series behaviors. In particular, we use an expressive formal language, namely Signal Temporal Logic (STL), to constrain the search of the computation graph for a neural network. We design a novel time function and sparse softmax function to improve the soundness and precision of the neural-STL framework. As a result, we can efficiently learn a compact STL formula for the classification of time-series data through off-the-shelf gradient-based tools.
