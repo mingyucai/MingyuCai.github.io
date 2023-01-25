@@ -46,6 +46,9 @@ author_profile: true
 <div class="blocktitle"></div>
 <div class="blockcontent">
 <ol>
+  
+<li><p><a href="https://arxiv.org/pdf/2210.01910.pdf"><b>Learning Signal Temporal Logic through Neural Network for Interpretable Classification</b></a>.<br /> Danyang Li, <b>Mingyu Cai</b>, Cristian-Ioan Vasile, Roberto Tron. <em> IEEE American Control Conference (ACC), San Diego, USA, May, 2023.</em> <a href="https://arxiv.org/pdf/2210.01910.pdf">[PDF]</a> </p>
+</li>
 
 <li><p><a href="https://ieeexplore.ieee.org/abstract/document/9664260"><b>Probabilistic Coordination of Heterogeneous Teams From Capability Temporal Logic Specifications</b></a>.<br /> <b>Mingyu Cai</b>, Kevin Leahy, Zachary Serlin, Cristian-Ioan Vasile. <em> IEEE International Conference on Robotics and Automation (ICRA), Philadelphia, USA, May, 2022.</em> <a href="/papers/2022_RA-L_Hetro.pdf">[PDF]</a> </p>
 </li>
