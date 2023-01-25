@@ -9,6 +9,9 @@ author_profile: true
 <div class="blocktitle"></div>
 <div class="blockcontent">  
 <ol>
+  
+<li><p><a href="https://arxiv.org/pdf/2210.01910.pdf"><b>Learning Minimally-Violating Continuous Control for Infeasible Linear Temporal Logic Specifications</b></a>.<br /> <b>Mingyu Cai</b>, Makai Mann, Zachary Serlin, Kevin Leahy, Cristian-Ioan Vasile. <em> IEEE American Control Conference (ACC), San Diego, USA, May, 2023.</em> <a href="https://arxiv.org/pdf/2210.01910.pdf">[PDF]</a> </p>
+</li>
 
 <li><p><a href="https://arxiv.org/abs/2109.02791"><b>Safety-Critical Modular Deep Reinforcement Learning with Temporal Logic through Gaussian Processes and Control Barrier Functions</b></a>.<br /> <b>Mingyu Cai</b>, Cristian-Ioan Vasile. Under Review.
 <a href="https://arxiv.org/abs/2109.02791">[PDF]</a> <a href="https://www.youtube.com/watch?v=fkCyAgx_FWM">[Video]</a> </p>
