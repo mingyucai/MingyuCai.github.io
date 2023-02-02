@@ -9,7 +9,9 @@ author_profile: true
 <div class="blocktitle"></div>
 <div class="blockcontent">  
 <ol>
-  
+
+<li><p><a href="https://ieeexplore.ieee.org/abstract/document/9664260"><b>Overcoming Exploration: Deep Reinforcement Learning for Continuous Control in Cluttered Environments from Temporal Logic Specifications</b></a>.<br /> <b>Mingyu Cai</b>, Erfan Aasi, Calin Belta, Cristian-Ioan Vasile. <em> IEEE Robotics and Automation Letters (RA-L), 2023.</em> <a href="/papers/Bib/2021_RA-L_Hetro.txt">[Bibtex]</a> <a href="/papers/2022_RA-L_Hetro.pdf">[PDF]</a> </p>
+</li>
 
 <li><p><a href="https://arxiv.org/abs/2109.02791"><b>Safety-Critical Modular Deep Reinforcement Learning with Temporal Logic through Gaussian Processes and Control Barrier Functions</b></a>.<br /> <b>Mingyu Cai</b>, Cristian-Ioan Vasile. Under Review.
 <a href="https://arxiv.org/abs/2109.02791">[PDF]</a> <a href="https://www.youtube.com/watch?v=fkCyAgx_FWM">[Video]</a> </p>
@@ -38,6 +40,7 @@ author_profile: true
 <li><p><a href="https://ieeexplore.ieee.org/abstract/document/9133331"><b>Learning-based probabilistic LTL motion planning with environment and motion uncertainties</b></a>.<br /><b>Mingyu Cai</b>, Hao Peng, Zhijun Li, Zhen Kan. <em> IEEE Transactions on Automatic Control (TAC), 2020.</em>
  <a href="/papers/Bib/2020_TAC_RL.txt">[Bibtex]</a> <a href="/papers/2020_TAC_RL.pdf">[PDF]</a> </p>
 </li>
+  
 </ol>
 </div></div>
 
