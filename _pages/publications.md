@@ -10,7 +10,6 @@ author_profile: true
 <div class="blockcontent">  
 <ol>
 
-
 <li><p><a href="https://arxiv.org/abs/2109.02791"><b>Safety-Critical Modular Deep Reinforcement Learning with Temporal Logic through Gaussian Processes and Control Barrier Functions</b></a>.<br /> <b>Mingyu Cai</b>, Cristian-Ioan Vasile. Under Review.
 <a href="https://arxiv.org/abs/2109.02791">[PDF]</a> <a href="https://www.youtube.com/watch?v=fkCyAgx_FWM">[Video]</a> </p>
 </li>
