@@ -1,7 +1,0 @@
-@article{cai2023overcoming,
-  title={Overcoming Exploration: Deep Reinforcement Learning for Continuous Control in Cluttered Environments from Temporal Logic Specifications},
-  author={Cai, Mingyu and Aasi, Erfan and Belta, Calin and Vasile, Cristian Ioan},
-  journal={IEEE Robotics and Automation Letters},
-  year={2021},
-  publisher={IEEE}
-}
