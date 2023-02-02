@@ -52,10 +52,10 @@ author_profile: true
 <div class="blockcontent">
 <ol>
  
-<li><p><a href="https://arxiv.org/pdf/2210.01162.pdf"><b>Learning Minimally-Violating Continuous Control for Infeasible Linear Temporal Logic Specifications</b></a>.<br /> <b>Mingyu Cai</b>, Makai Mann, Zachary Serlin, Kevin Leahy, Cristian-Ioan Vasile. <em> IEEE American Control Conference (ACC), San Diego, USA, May, 2023.</em> <a href="https://arxiv.org/pdf/2210.01162.pdf">[PDF]</a> </p>
+<li><p><a href="https://arxiv.org/pdf/2210.01162.pdf"><b>Learning Minimally-Violating Continuous Control for Infeasible Linear Temporal Logic Specifications</b></a>.<br /> <b>Mingyu Cai</b>, Makai Mann, Zachary Serlin, Kevin Leahy, Cristian-Ioan Vasile. <em> IEEE American Control Conference (ACC), San Diego, USA, May, 2023.</em> <a href="https://www.youtube.com/watch?v=DqesqBsja9k">[Video]</a> <a href="/papers/Bib/2023_ACC_Infeasible.txt">[Bibtex]</a> <a href="https://arxiv.org/pdf/2210.01162.pdf">[PDF]</a> </p>
 </li>
   
-<li><p><a href="https://arxiv.org/pdf/2210.01910.pdf"><b>Learning Signal Temporal Logic through Neural Network for Interpretable Classification</b></a>.<br /> Danyang Li, <b>Mingyu Cai</b>, Cristian-Ioan Vasile, Roberto Tron. <em> IEEE American Control Conference (ACC), San Diego, USA, May, 2023.</em> <a href="https://arxiv.org/pdf/2210.01910.pdf">[PDF]</a> </p>
+<li><p><a href="https://arxiv.org/pdf/2210.01910.pdf"><b>Learning Signal Temporal Logic through Neural Network for Interpretable Classification</b></a>.<br /> Danyang Li, <b>Mingyu Cai</b>, Cristian-Ioan Vasile, Roberto Tron. <em> IEEE American Control Conference (ACC), San Diego, USA, May, 2023.</em> <a href="/papers/Bib/2023_ACC_STL.txt">[Bibtex]</a> <a href="https://arxiv.org/pdf/2210.01910.pdf">[PDF]</a> </p>
 </li>
   
 <li><p><a href="https://ieeexplore.ieee.org/abstract/document/9664260"><b>Probabilistic Coordination of Heterogeneous Teams From Capability Temporal Logic Specifications</b></a>.<br /><b>Mingyu Cai</b>, Kevin Leahy, Zachary Serlin, Cristian-Ioan Vasile. <em> IEEE International Conference on Robotics and Automation (ICRA). Philadelphia, USA, May, 2022.</em>
