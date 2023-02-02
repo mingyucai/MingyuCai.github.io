@@ -41,5 +41,36 @@ author_profile: true
 </div></div>
 
 
+## Conference Papers
+<div class="infoblock">
+<div class="blocktitle"></div>
+<div class="blockcontent">
+<ol>
+  
+<li><p><a href="https://ieeexplore.ieee.org/abstract/document/9664260"><b>Probabilistic Coordination of Heterogeneous Teams From Capability Temporal Logic Specifications</b></a>.<br /> <b>Mingyu Cai</b>, Kevin Leahy, Zachary Serlin, Cristian-Ioan Vasile. <em> IEEE International Conference on Robotics and Automation (ICRA), Philadelphia, USA, May, 2022.</em> <a href="/papers/2022_RA-L_Hetro.pdf">[PDF]</a> </p>
+</li>
+  
+<li><p><a href="https://ieeexplore.ieee.org/document/9506925"><b>Modular Deep Reinforcement Learning for Continuous Motion Planning With Temporal Logic</b></a>.<br /> <b>Mingyu Cai</b>, Mohammadhosein Hasanbeig, Shaoping Xiao, Alessandro Abate, Zhen Kan. <em> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.</em>
+<a href="/papers/Bib/2021_RA-L_Modular.txt">[Bibtex]</a> <a href="/papers/2021_RA-L_modular.pdf">[PDF]</a> <a href="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA">[Demo]</a> <a href="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA">[Code]</a></p>
+</li>
+  
+<li><p><a href="https://ieeexplore.ieee.org/document/9561903"><b>Reinforcement Learning Based Temporal Logic Control with Maximum Probabilistic Satisfaction</b></a>.<br /><b>Mingyu Cai</b>, Shaoping Xiao, Baoluo Li, Zhiliang Li, Zhen Kan. <em> IEEE International Conference on Robotics and Automation (ICRA). Xian, China, May 2021.</em>
+ <a href="/papers/Bib/2021_ICRA.txt">[Bibtex]</a> <a href="/papers/ICRA.pdf">[PDF]</a> <a href="https://github.com/mingyucai/E-LDGBA_RL">[Code]</a></p>
+</li>
+  
+<li><p><a href="https://ieeexplore.ieee.org/abstract/document/9234439/"><b>Receding Horizon Control-Based Motion Planning With Partially Infeasible LTL Specifications</b></a>.<br /><b>Mingyu Cai</b>, Hao Peng, Zhijun Li, Hongbo Gao, Zhen Kan. <em> American Control Conference (ACC) , New Orleans, Louisiana, USA, June 2021.</em>
+ <a href="/papers/Bib/2020_LCSS_MPC.txt">[Bibtex]</a> <a href="/papers/2020_LCSS_MPC.pdf">[PDF]</a> <a href="https://mingyucai.github.io/personal_page/Model_Predictive_Conrol-LTL.html">[Demo]</a> <a href="https://www.youtube.com/watch?v=16j6TmVUrTk&t=2s">[Video]</a> <a href="https://github.com/mingyucai/Model_Predictive_Conrol-LTL">[Code]</a></p>
+</li>
+  
+<li><p><a href="https://ieeexplore.ieee.org/abstract/document/9029637"><b>Characterizing herdability of signed networks via graph walks</b></a>.<br /> Baike She,<b>Mingyu Cai</b>, Zhen Kan. <em> IEEE Conference on Decision and Control Conference (CDC), Orlando, FL, USA, December 2019.</em> 
+<a href="/papers/Bib/2019_CDC_network.txt">[Bibtex]</a> <a href="/papers/2019_CDC_network.pdf">[PDF]</a> </p>
+
+</li>
+</ol>
+</div></div>
+  
+  
+
+
 
 
