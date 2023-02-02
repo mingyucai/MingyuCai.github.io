@@ -12,6 +12,10 @@ author_profile: true
 
 <li><p><a href="https://arxiv.org/pdf/2201.12231.pdf"><b>Overcoming Exploration: Deep Reinforcement Learning for Continuous Control in Cluttered Environments from Temporal Logic Specifications</b></a>.<br /> <b>Mingyu Cai</b>, Erfan Aasi, Calin Belta, Cristian-Ioan Vasile. <em> IEEE Robotics and Automation Letters (RA-L), 2023.</em> <a href="/papers/Bib/2021_RA-L_Hetro.txt">[Bibtex]</a> <a href="https://arxiv.org/pdf/2201.12231.pdf">[PDF]</a> </p>
 </li>
+  
+  
+<li><p><a href="https://arxiv.org/abs/2109.02791"><b>Safety-Critical Modular Deep Reinforcement Learning with Temporal Logic through Gaussian Processes and Control Barrier Functions</b></a>.<br /> <b>Mingyu Cai</b>, Cristian-Ioan Vasile. <em> Under Review, 2022.</em> <a href="https://www.youtube.com/watch?v=fkCyAgx_FWM">[Video]</a> <a href="https://arxiv.org/abs/2109.02791">[PDF]</a> </p>
+</li>
 
   
 <li><p><a href="https://ieeexplore.ieee.org/abstract/document/9664320"><b>Optimal Probabilistic Motion Planning with Potential Infeasible LTL Constraints</b></a>.<br /> <b>Mingyu Cai</b>, Shaoping Xiao, Zhijun Li, Zhen Kan. <em> IEEE Transactions on Automatic Control (TAC), 2022.</em> <a href="/papers/Bib/2021_TAC.txt">[Bibtex]</a> <a href="/papers/2022_TAC_Optimal.pdf">[PDF]</a> </p>
