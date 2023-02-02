@@ -1,0 +1,7 @@
+@inproceedings{Danyang2023STL,
+  title={Learning Signal Temporal Logic through Neural Network for Interpretable Classification},
+  author=Li, Danyang and Cai, Mingyu and Vasile, Critian-Ioan and Tron, Roberto},
+  booktitle={2023 IEEE American Control Conference (ACC)},
+  year={2023},
+  organization={IEEE}
+}
