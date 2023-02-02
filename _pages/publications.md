@@ -59,7 +59,7 @@ author_profile: true
 </li>
   
 <li><p><a href="https://ieeexplore.ieee.org/abstract/document/9664260"><b>Probabilistic Coordination of Heterogeneous Teams From Capability Temporal Logic Specifications</b></a>.<br /><b>Mingyu Cai</b>, Kevin Leahy, Zachary Serlin, Cristian-Ioan Vasile. <em> IEEE International Conference on Robotics and Automation (ICRA). Philadelphia, USA, May, 2022.</em>
- <a href="/papers/Bib/2021_ICRA.txt">[Bibtex]</a> <a href="/papers/2022_RA-L_Hetro.pdf">[PDF]</a></p>
+ <a href="/papers/Bib/2021_RA-L_Hetro.txt">[Bibtex]</a> <a href="/papers/2022_RA-L_Hetro.pdf">[PDF]</a></p>
 </li>
   
   
