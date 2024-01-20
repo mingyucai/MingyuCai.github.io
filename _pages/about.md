@@ -13,7 +13,7 @@ About Me
 
 Mingyu Cai is an assistant professor in the <a href="https://www.me.ucr.edu/"><b>Department of Mechanical Engineering</b></a>
  at <a href="https://www.ucr.edu/"><b>University of California, Riverside</b></a>. Before joining UCR, he was a research scientist at Honda Research Institute (San Jose Office) from 2023-2024.
-He was a postdoctoral associate in the Department of Mechanical Engineering, Lehigh University, Philadelphia, PA from 2021-2023. He received the Diploma in Mechanical Engineering in 2021 from the University of Iowa. He also received the M.Sc. and B.Eng in mechanical engineering from University of Florida, Gainesville, USA, 2017 and Beijing Institute of Technology, Beijing, China, 2015, respectively. 
+He was a postdoctoral associate in the <a href="https://wordpress.lehigh.edu/robotics/"><b>Autonomous and Intelligent Robotics Laboratory</b></a>, Lehigh University, Philadelphia, PA from 2021-2023. He received the Diploma in Mechanical Engineering in 2021 from the University of Iowa. He also received the M.Sc. and B.Eng in mechanical engineering from University of Florida, Gainesville, USA, 2017 and Beijing Institute of Technology, Beijing, China, 2015, respectively. 
 
 Research Agenda
 ======
