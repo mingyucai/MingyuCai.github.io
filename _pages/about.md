@@ -17,7 +17,7 @@ He was a postdoctoral associate in the Department of Mechanical Engineering, Leh
 
 Research Agenda
 ======
-Mingyu specializes in robotics, machine learning, control, formal methods, and optimization, aiming to enhance applications in autonomous driving, manipulation, multi-agent systems, and human-robot interaction. His objective is to create autonomous intelligence that is both explainable and reliable, providing interpretable assistance and collaboration with humans.
+Mingyu specializes in robotics, machine learning, control, <b>formal methods<b>, and optimization, aiming to enhance applications in <b>autonomy systems<b>, <b>human-robot interaction<b>, and <b>AI Security<b>. His objective is to create autonomous intelligence that is both explainable and reliable, providing <b>interpretable<b> assistance and collaboration with humans.
 
 His laboratory is currently concentrating on three key areas:
 (1) Control based on learning and perception, guided by intricate temporal logic specifications.
@@ -26,5 +26,5 @@ His laboratory is currently concentrating on three key areas:
 
 Lab Recruitment
 ======
-I’m looking for highly motivated students who have strong background in robot control and machine learning, with full financial support. Interested candidates are strongly encouraged to contact me via email, together with a resume including publication list and transcripts.
+<b>I’m looking for highly motivated students<b> who have strong background in robot control and machine learning, with full financial support. Interested candidates are strongly encouraged to contact me via email, together with a resume including publication list and transcripts.
 
