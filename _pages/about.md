@@ -26,5 +26,5 @@ His laboratory is currently concentrating on three key areas:
 
 Lab Recruitment
 ======
-<b>I’m looking for highly motivated students<b> who have strong background in robot control and machine learning, with full financial support. Interested candidates are strongly encouraged to contact me via email, together with a resume including publication list and transcripts.
+<b>I’m looking for highly motivated students</b> who have strong background in robot control and machine learning, with full financial support. Interested candidates are strongly encouraged to contact me via email, together with a resume including publication list and transcripts.
 
