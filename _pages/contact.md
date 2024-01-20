@@ -7,11 +7,10 @@ author_profile: true
 
 
 <td align="left"><p>Mingyu Cai <br />
-Postdoctoral Research Associate<br />
-<a href="https://wordpress.lehigh.edu/robotics/home/">Autonomouos and Intelligent Robotics Laboratory (AIRLab)</a><br />
-Mechanical Engineering <br />
-113 Research Drive, Building C, Bethlehem, PA 18015, USA <br />
+Assistant Professor<br />
+<a href="https://wordpress.lehigh.edu/robotics/home/">UCR Mechanical Engineering</a>
+A373 Bourns Hall, Riverside, CA 92521, USA <br />
 Cell: (610) 758-4100 <br />
-E-mail: <a href="mailto:mingyu-cai@lehigh.edu">mingyu-cai@lehigh.edu</a><br /></p>
+E-mail: <a href="mailto:mingyu.cai@ucr.edu">mingyu.cai@ucr.edu</a><br /></p>
 </td>
 
