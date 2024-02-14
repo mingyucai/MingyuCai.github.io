@@ -65,7 +65,7 @@ author_profile: true
 <ol>
 
  
-<li><p><a href="https://arxiv.org/pdf/2309.08813.pdf"><b>Control Barrier Function for Linearizable Systems with High Relative Degrees from Signal Temporal Logics: A Reference Governor Approach </b></a>.<br /> Kaier Liang, <b>Mingyu Cai</b>, Cristian-Ioan Vasile. <em> IEEE American Control Conference (ACC), 2024.</em> <a href="https://www.youtube.com/watch?v=ZRmsA2FeFR4">[Video]</a> <a href="/papers/Bib/2024_ACC.txt">[Bibtex]</a> <a href="https://arxiv.org/pdf/2309.08813.pdf">[PDF]</a> </p>
+<li><p><a href="https://arxiv.org/pdf/2309.08813.pdf"><b>Control Barrier Function for Linearizable Systems with High Relative Degrees from Signal Temporal Logics: A Reference Governor Approach </b></a>.<br /> Kaier Liang, <b>Mingyu Cai</b>, Cristian-Ioan Vasile. <em> IEEE American Control Conference (ACC), 2024.</em> <a href="https://www.youtube.com/watch?v=ZRmsA2FeFR4">[Video]</a> <a href="https://arxiv.org/pdf/2309.08813.pdf">[PDF]</a> </p>
 </li>
   
 
