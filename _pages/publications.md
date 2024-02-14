@@ -63,6 +63,14 @@ author_profile: true
 <div class="blocktitle"></div>
 <div class="blockcontent">
 <ol>
+
+ 
+<li><p><a href="https://arxiv.org/pdf/2309.08813.pdf"><b>Control Barrier Function for Linearizable Systems with High Relative Degrees from Signal Temporal Logics: A Reference Governor Approach </b></a>.<br /> Kaier Liang, <b>Mingyu Cai</b>, Cristian-Ioan Vasile. <em> IEEE American Control Conference (ACC), 2024.</em> <a href="https://www.youtube.com/watch?v=ZRmsA2FeFR4">[Video]</a> <a href="/papers/Bib/2024_ACC.txt">[Bibtex]</a> <a href="https://arxiv.org/pdf/2309.08813.pdf">[PDF]</a> </p>
+</li>
+  
+
+<li><p><a href="https://proceedings.mlr.press/v211/aasi23a.html"><b>Time-Incremental Learning of Temporal Logic Classifiers Using Decision Trees</b></a>.<br /> Erfan Aasi, <b>Mingyu Cai</b>, Cristian Ioan Vasile, Calin Belta. <em> Learning for Dynamics and Control Conference (L4DC), 2023.</em> <a href="/papers/Bib/2023_L4DC.txt">[Bibtex]</a> <a href="https://proceedings.mlr.press/v211/aasi23a.html">[PDF]</a> </p>
+</li>
  
 <li><p><a href="https://arxiv.org/pdf/2210.01162.pdf"><b>Learning Minimally-Violating Continuous Control for Infeasible Linear Temporal Logic Specifications</b></a>.<br /> <b>Mingyu Cai</b>, Makai Mann, Zachary Serlin, Kevin Leahy, Cristian-Ioan Vasile. <em> IEEE American Control Conference (ACC), San Diego, USA, May, 2023.</em> <a href="https://www.youtube.com/watch?v=DqesqBsja9k">[Video]</a> <a href="/papers/Bib/2023_ACC_Infeasible.txt">[Bibtex]</a> <a href="https://arxiv.org/pdf/2210.01162.pdf">[PDF]</a> </p>
 </li>
