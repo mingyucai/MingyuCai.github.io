@@ -1,0 +1,6 @@
+@article{liang2023control,
+  title={Control Barrier Function for Linearizable Systems with High Relative Degrees from Signal Temporal Logics: A Reference Governor Approach},
+  author={Liang, Kaier and Cai, Mingyu and Vasile, Cristian-Ioan},
+  journal={arXiv preprint arXiv:2309.08813},
+  year={2023}
+}
