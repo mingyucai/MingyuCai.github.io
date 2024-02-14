@@ -10,6 +10,11 @@ author_profile: true
 <div class="blockcontent">  
 <ol>
 
+
+<li><p><a href="https://arxiv.org/pdf/2201.12231.pdf"><b>Local Observation Based Reactive Temporal Logic Planning of Human-Robot Systems
+</b></a>.<br /> Zhangli Zhou, Shaochen Wang, Ziyang Chen, <b>Mingyu Cai</b>,  Hao Wang, Zhijun Li, Zhen Kan. <em> IEEE Transactions on Automation Science and Engineering (TASE), 2023.</em> <a href="https://www.youtube.com/watch?v=O94KcVqwccA">[Video]</a> <a href="/papers/Bib/2023_TASE.txt">[Bibtex]</a> <a href="https://ieeexplore.ieee.org/abstract/document/10230080">[PDF]</a>  </p>
+</li>
+
 <li><p><a href="https://arxiv.org/pdf/2201.12231.pdf"><b>A Novel Framework for Improved Grasping of Thin and Stacked Objects</b></a>.<br /> Zhangli Zhou, Shaochen Wang, Ziyang Chen, <b>Mingyu Cai</b>, Zhen Kan. <em> IEEE Transactions on Artificial Intelligence (TAI), 2023.</em> <a href="https://github.com/USTCzzl/DHRNet-MP-PC/tree/master">[Video]</a> <a href="/papers/Bib/2023_TAI.txt">[Bibtex]</a> <a href="https://ieeexplore.ieee.org/abstract/document/10354477">[PDF]</a>  </p>
 </li>
 
