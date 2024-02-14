@@ -1,0 +1,7 @@
+@article{zhou2023local,
+  title={Local observation based reactive temporal logic planning of human-robot systems},
+  author={Zhou, Zhangli and Wang, Shaochen and Chen, Ziyang and Cai, Mingyu and Wang, Hao and Li, Zhijun and Kan, Zhen},
+  journal={IEEE Transactions on Automation Science and Engineering},
+  year={2023},
+  publisher={IEEE}
+}
