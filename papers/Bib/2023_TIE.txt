@@ -1,0 +1,7 @@
+@article{zhou2023vision,
+  title={Vision-Based Reactive Temporal Logic Motion Planning for Quadruped Robots in Unstructured Dynamic Environments},
+  author={Zhou, Zhangli and Chen, Ziyang and Cai, Mingyu and Li, Zhijun and Kan, Zhen and Su, Chun-Yi},
+  journal={IEEE Transactions on Industrial Electronics},
+  year={2023},
+  publisher={IEEE}
+}
