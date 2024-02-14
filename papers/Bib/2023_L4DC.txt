@@ -1,0 +1,8 @@
+@inproceedings{aasi2023time,
+  title={Time-Incremental Learning of Temporal Logic Classifiers Using Decision Trees},
+  author={Aasi, Erfan and Cai, Mingyu and Vasile, Cristian Ioan and Belta, Calin},
+  booktitle={Learning for Dynamics and Control Conference},
+  pages={547--559},
+  year={2023},
+  organization={PMLR}
+}
