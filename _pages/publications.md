@@ -10,6 +10,9 @@ author_profile: true
 <div class="blockcontent">  
 <ol>
 
+<li><p><a href="https://arxiv.org/pdf/2201.12231.pdf"><b>A Novel Framework for Improved Grasping of Thin and Stacked Objects</b></a>.<br /> Zhangli Zhou, Shaochen Wang, Ziyang Chen, <b>Mingyu Cai</b>, Zhen Kan. <em> IEEE Transactions on Artificial Intelligence (TAI), 2023.</em> <a href="https://github.com/USTCzzl/DHRNet-MP-PC/tree/master">[Video]</a> <a href="/papers/Bib/2023_RA-L_Exploration.txt">[Bibtex]</a> <a href="https://ieeexplore.ieee.org/abstract/document/10354477">[PDF]</a>  </p>
+</li>
+
 <li><p><a href="https://arxiv.org/pdf/2201.12231.pdf"><b>Overcoming Exploration: Deep Reinforcement Learning for Continuous Control in Cluttered Environments from Temporal Logic Specifications</b></a>.<br /> <b>Mingyu Cai</b>, Erfan Aasi, Calin Belta, Cristian-Ioan Vasile. <em> IEEE Robotics and Automation Letters (RA-L), 2023.</em> <a href="https://www.youtube.com/watch?v=YQRQ2-yMtIk&t=9s">[Video]</a> <a href="/papers/Bib/2023_RA-L_Exploration.txt">[Bibtex]</a> <a href="https://arxiv.org/pdf/2201.12231.pdf">[PDF]</a>  </p>
 </li>
   
