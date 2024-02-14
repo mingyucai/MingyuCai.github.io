@@ -1,0 +1,7 @@
+@article{zhou2023novel,
+  title={A Novel Framework for Improved Grasping of Thin and Stacked Objects},
+  author={Zhou, Zhangli and Wang, Shaochen and Chen, Ziyang and Cai, Mingyu and Kan, Zhen},
+  journal={IEEE Transactions on Artificial Intelligence},
+  year={2023},
+  publisher={IEEE}
+}
